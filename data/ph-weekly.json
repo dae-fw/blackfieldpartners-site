@@ -3,10 +3,10 @@
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.06",
-      "note": "Closed Oct 15 at a record low.",
-      "source": "Daily Tribune",
-      "url": "https://tribune.net.ph/2026/10/15/peso-hits-record-low-close-of-p6306-as-stocks-rebound"
+      "value": "₱62.92",
+      "note": "Market rate, Oct 15.",
+      "source": "ExchangeRate-API",
+      "url": "https://www.exchangerate-api.com/"
     },
     {
       "label": "BSP policy rate",
@@ -26,40 +26,35 @@
       "label": "PSE index",
       "value": "5,663.17",
       "note": "Closed Oct 15, up 0.82%.",
-      "source": "Daily Tribune",
-      "url": "https://tribune.net.ph/2026/10/15/peso-hits-record-low-close-of-p6306-as-stocks-rebound"
+      "source": "Philippine Stock Exchange",
+      "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "The peso breaks ₱63 to the dollar for the first time",
-      "line": "Analysts tie the slide to high oil prices, which raise demand for dollars.",
-      "source": "The Philippine Star",
-      "url": "https://philstar.com/business/2026/10/15/2563400/peso-breaches-63-level-vs-dollar-hits-record-low"
-    },
-    {
-      "title": "Inflation jumps to 7.2% in September, a three-year high",
-      "line": "Food, transport, and utilities led the rise, ending four months of easing.",
+      "title": "Philippines’ cash remittance growth below 2% for third month",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/06/784925/philippine-inflation-heats-up-to-3-year-high/"
+      "url": "https://bworldonline.com/top-stories/2026/10/15/787276/philippines-cash-remittance-growth-below-2-for-third-month/"
     },
     {
-      "title": "The House passes the ₱7.2-trillion 2027 national budget",
-      "line": "The bill now goes to the Senate, which aims to have it signed before Christmas.",
-      "source": "GMA News",
-      "url": "https://www.gmanetwork.com/news/topstories/nation/1005658/house-approves-p7-2-trillion-2027-budget-on-final-reading/story/"
+      "title": "Gov’t eyes raising bioethanol blend to 15%",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/616074/govt-eyes-raising-bioethanol-blend-to-15"
     },
     {
-      "title": "The BSP says to “prepare for the worst” as El Niño threatens prices and supplies",
-      "line": "The warning comes a week before the central bank’s October 22 rate decision.",
-      "source": "The Manila Times",
-      "url": "https://www.manilatimes.net/2026/10/15/business/top-business/bsp-prepare-for-the-worstamid-el-nio-threat-on-prices-supplies/2445893"
+      "title": "Oil shocks, El Niño may threaten Philippine economic recovery in 2027: World Bank",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/15/787275/oil-shocks-el-nino-may-threaten-philippine-economic-recovery-in-2027-world-bank/"
     },
     {
-      "title": "Malaysia’s CIMB is said to be considering a sale of its Philippine business",
-      "line": "A deal could value the unit at up to US$200 million.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-06/malaysia-s-cimb-is-said-to-consider-selling-philippines-business"
+      "title": "BIR posts double-digit revenue growth in September 2026",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/616105/bir-posts-double-digit-revenue-growth-in-september-2026"
+    },
+    {
+      "title": "Philippine peso sinks past P63 per dollar for first time",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/15/787274/philippine-peso-sinks-past-p63-per-dollar-for-first-time/"
     }
   ],
   "regulation": [
