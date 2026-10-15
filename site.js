@@ -116,13 +116,20 @@
   fetch(root.dataset.src, { cache: 'no-cache' })
     .then(function (r) { if (!r.ok) throw r; return r.json(); })
     .then(function (d) {
+      if (root.dataset.mode === 'strip') {
+        // Homepage: just the four numbers, linking to the full page.
+        root.innerHTML = d.indicators.map(function (i) {
+          return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b></div>';
+        }).join('') + '<span class="strip-more">The Philippines this week <i>→</i></span>';
+        root.classList.add('ready');
+        return;
+      }
       var html = '';
       html += '<p class="ph-updated">Updated ' + esc(longDate(d.updated)) + '</p>';
 
       html += '<div class="ph-ind">' + d.indicators.map(function (i) {
         return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b>' +
-          '<span class="ph-note">' + esc(i.note) + '</span>' +
-          '<span class="ph-src">' + link(i.url, i.source) + '</span></div>';
+          '<span class="ph-note">' + esc(i.note) + '</span></div>';
       }).join('') + '</div>';
 
       html += '<div class="ph-cols">';
@@ -144,5 +151,5 @@
       root.innerHTML = html;
       root.classList.add('ready');
     })
-    .catch(function () { root.closest('section').hidden = true; });
+    .catch(function () { (root.closest('section') || root).hidden = true; });
 })();

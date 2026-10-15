@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Philippines this week | Blackfield Partners</title>
+<meta name="description" content="Key numbers, headlines, regulation, and dates for business in the Philippines, updated every morning.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../site.css">
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<a class="corner tl" href="../">Blackfield Partners</a>
+<a class="corner tr" href="#contact">Contact</a>
+
+<header class="page-head">
+  <h1>
+    <span class="line"><span>The Philippines</span></span>
+    <span class="line"><span><em>this week.</em></span></span>
+  </h1>
+  <p class="intro">Key numbers, headlines, regulation, and dates for business in the Philippines, updated every morning.</p>
+</header>
+
+<!-- Filled from data/ph-weekly.json, which the daily update rewrites. -->
+<section class="block" id="this-week">
+  <span class="label">This week</span>
+  <div class="ph" id="ph-weekly" data-src="../data/ph-weekly.json"></div>
+</section>
+
+<section class="close" id="contact">
+  <span class="label">Start a conversation</span>
+  <a href="mailto:hello@blackfieldpartners.com">hello@blackfieldpartners.com</a>
+  <p>Every conversation is confidential.</p>
+</section>
+<footer class="colophon"><span>© 2026 Blackfield Partners Corporation</span><a href="../">Back to home</a></footer>
+
+<script src="../site.js"></script>
+</body>
+</html>
