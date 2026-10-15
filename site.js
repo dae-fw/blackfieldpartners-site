@@ -118,9 +118,10 @@
     .then(function (d) {
       if (root.dataset.mode === 'strip') {
         // Homepage: just the four numbers, linking to the full page.
-        root.innerHTML = d.indicators.map(function (i) {
-          return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b></div>';
-        }).join('') + '<span class="strip-more">The Philippines this week <i>→</i></span>';
+        root.innerHTML = '<p class="strip-date">As of ' + esc(longDate(d.updated)) + '</p>' +
+          d.indicators.map(function (i) {
+            return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b></div>';
+          }).join('');
         root.classList.add('ready');
         return;
       }

@@ -34,13 +34,12 @@ a.corner:hover { color: var(--accent); }
 .page-head .intro { margin-top: 36px; }
 
 /* Homepage numbers strip */
-.strip { display: grid; grid-template-columns: repeat(4, 1fr) auto; gap: 24px; align-items: end; margin-top: 64px; padding-top: 18px; border-top: .5px solid var(--ink); opacity: 0; transition: opacity 1.2s var(--ease); }
+.strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; align-items: end; margin-top: 64px; padding-top: 18px; border-top: .5px solid var(--ink); opacity: 0; transition: opacity 1.2s var(--ease); }
 .strip.ready { opacity: 1; }
-.strip b { display: block; font: 400 clamp(26px, 2.6vw, 40px)/1 var(--serif); letter-spacing: -.01em; margin-top: 10px; font-variant-numeric: tabular-nums; }
-.strip-more { font-size: 14px; white-space: nowrap; padding-bottom: 4px; border-bottom: .5px solid var(--ink); transition: color .3s; }
-.strip-more i { font-style: normal; display: inline-block; transition: transform .5s var(--ease); }
-.strip:hover .strip-more { color: var(--accent); }
-.strip:hover .strip-more i { transform: translateX(5px); }
+.strip:hover b { color: var(--accent); }
+.strip b { transition: color .3s; }
+.strip > div > b { display: block; font: 400 clamp(26px, 2.6vw, 40px)/1 var(--serif); letter-spacing: -.01em; margin-top: 10px; font-variant-numeric: tabular-nums; }
+.strip-date { grid-column: 1 / -1; font-size: 13px; color: var(--ink-3); margin-bottom: 4px; }
 .open h1 { font: 400 clamp(48px, 10vw, 168px)/.92 var(--serif); letter-spacing: -.025em; }
 .open h1 em { color: var(--accent); }
 .intro { margin-top: 48px; max-width: 64ch; text-wrap: balance; font-size: clamp(17px, 1.4vw, 20px); color: var(--ink-2); opacity: 0; animation: show 1.2s var(--ease) .8s forwards; }
@@ -145,8 +144,7 @@ a.corner:hover { color: var(--accent); }
   .article header, .article .prose, .back { grid-column: 1; }
   .rows li { grid-template-columns: 1fr; gap: 6px; }
   .strip { grid-template-columns: 1fr 1fr; row-gap: 20px; margin-top: 48px; }
-  .strip-more { grid-column: 1 / -1; justify-self: start; }
-  .page-head { padding-top: 18vh; }
+      .page-head { padding-top: 18vh; }
   .process { grid-template-columns: 1fr 1fr; row-gap: 32px; }
   .process li:nth-child(3) { padding-left: 0; }
   .ph-ind { grid-template-columns: 1fr 1fr; row-gap: 28px; }
