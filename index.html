@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Blackfield Partners</title>
+<meta name="description" content="Blackfield Partners is an advisory firm helping corporations, government, and family businesses move stuck decisions forward in the Philippines.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;1,400&family=Jost:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<div class="progress" id="progress"></div>
+<a class="corner tl" href="#">Blackfield Partners</a>
+<a class="corner tr" href="#contact">Contact</a>
+
+<header class="open">
+  <h1>
+    <span class="line"><span>Navigate complex</span></span>
+    <span class="line"><span>business in the</span></span>
+    <span class="line"><span><em>Philippines.</em></span></span>
+  </h1>
+  <p class="intro">Moving decisions forward through research, access, and advocacy.</p>
+</header>
+
+<!-- Filled from data/ph-weekly.json, which the weekly update rewrites. -->
+<section class="block" id="this-week" data-chap="This week">
+  <span class="label">The Philippines this week</span>
+  <div class="ph" id="ph-weekly" data-src="data/ph-weekly.json"></div>
+</section>
+
+<section class="block" id="services" data-chap="What we do">
+  <span class="label">What we do</span>
+  <ol class="rows">
+    <li class="fade"><h3>Research</h3><p>Position papers, reports, and briefings that make the case for a decision, grounded in local data.</p></li>
+    <li class="fade"><h3>Access</h3><p>Introductions to the decision-makers in industry, government, and family enterprise, followed by facilitation and negotiation in the room.</p></li>
+    <li class="fade"><h3>Advocacy</h3><p>Media, coalitions, and public discourse, when quiet diplomacy isn’t enough.</p></li>
+  </ol>
+</section>
+
+<section class="block" data-chap="When to call">
+  <span class="label">When to call us</span>
+  <div class="cases">
+    <div class="fade"><span class="who">Entering the Philippines</span><h3>Setting up here without knowing who really decides.</h3><p>We map the regulators, local government, partners, and the culture of the room before you commit.</p></div>
+    <div class="fade"><span class="who">Investors</span><h3>Buying into a company without knowing what you’re really buying.</h3><p>We read the family dynamics, political exposure, and local reputation behind the numbers.</p></div>
+    <div class="fade"><span class="who">Corporations</span><h3>The project is approved on paper and stuck everywhere else.</h3><p>We find the real blocker, whether permits, local government, or partners, and work it until it moves.</p></div>
+    <div class="fade"><span class="who">New regulation</span><h3>A new rule changes the economics of your business.</h3><p>We assess the real impact, build the case, and take it to the regulators.</p></div>
+    <div class="fade"><span class="who">Local partnerships</span><h3>The joint venture has stopped working, and nobody is saying why.</h3><p>We act as a neutral party and help the partners renegotiate, across cultures.</p></div>
+    <div class="fade"><span class="who">Family businesses</span><h3>A decision the family can’t make from inside the family.</h3><p>We bring a trusted outside voice to decisions on succession, restructuring, or new partners.</p></div>
+    <div class="fade"><span class="who">Government</span><h3>Good policy that can’t find its coalition.</h3><p>We build the argument and align agencies, industry, and the public behind it.</p></div>
+  </div>
+</section>
+
+<section class="block" data-chap="How it works">
+  <span class="label">How it works</span>
+  <ol class="process fade">
+    <li><b>01</b>A confidential first conversation</li>
+    <li><b>02</b>An honest answer on whether we can help</li>
+    <li><b>03</b>An agreed scope and timeline</li>
+    <li><b>04</b>Work that continues until there’s an outcome</li>
+  </ol>
+</section>
+
+<section class="close" id="contact" data-chap="Contact">
+  <span class="label">Start a conversation</span>
+  <!-- TODO: replace with the real contact email before launch -->
+  <a href="mailto:hello@blackfieldpartners.com">hello@blackfieldpartners.com</a>
+  <p>Every conversation is confidential.</p>
+</section>
+<footer class="colophon"><span>© 2026 Blackfield Partners Corporation</span></footer>
+
+<script src="site.js"></script>
+</body>
+</html>

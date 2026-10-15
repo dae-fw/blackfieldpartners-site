@@ -1,0 +1,5 @@
+# Local only: design drafts, unpublished articles, editor settings
+directions/
+notes/
+.claude/
+.DS_Store

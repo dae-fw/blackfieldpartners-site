@@ -1,0 +1,123 @@
+{
+  "updated": "2026-10-15",
+  "indicators": [
+    {
+      "label": "Peso per US dollar",
+      "value": "₱63.06",
+      "note": "Closed Oct 15 at a record low.",
+      "source": "Daily Tribune",
+      "url": "https://tribune.net.ph/2026/10/15/peso-hits-record-low-close-of-p6306-as-stocks-rebound"
+    },
+    {
+      "label": "BSP policy rate",
+      "value": "5.00%",
+      "note": "Set on Aug 27. Next decision on Oct 22.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/08/28/business/top-business/bsp-hikes-rates-anew-in-preemptive-move/2413684"
+    },
+    {
+      "label": "Inflation",
+      "value": "7.2%",
+      "note": "September, up from 6.1% in August.",
+      "source": "PSA",
+      "url": "https://psa.gov.ph/content/summary-inflation-report-consumer-price-index-2018100-september-2026"
+    },
+    {
+      "label": "PSE index",
+      "value": "5,663.17",
+      "note": "Closed Oct 15, up 0.82%.",
+      "source": "Daily Tribune",
+      "url": "https://tribune.net.ph/2026/10/15/peso-hits-record-low-close-of-p6306-as-stocks-rebound"
+    }
+  ],
+  "headlines": [
+    {
+      "title": "The peso breaks ₱63 to the dollar for the first time",
+      "line": "Analysts tie the slide to high oil prices, which raise demand for dollars.",
+      "source": "The Philippine Star",
+      "url": "https://philstar.com/business/2026/10/15/2563400/peso-breaches-63-level-vs-dollar-hits-record-low"
+    },
+    {
+      "title": "Inflation jumps to 7.2% in September, a three-year high",
+      "line": "Food, transport, and utilities led the rise, ending four months of easing.",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/06/784925/philippine-inflation-heats-up-to-3-year-high/"
+    },
+    {
+      "title": "The House passes the ₱7.2-trillion 2027 national budget",
+      "line": "The bill now goes to the Senate, which aims to have it signed before Christmas.",
+      "source": "GMA News",
+      "url": "https://www.gmanetwork.com/news/topstories/nation/1005658/house-approves-p7-2-trillion-2027-budget-on-final-reading/story/"
+    },
+    {
+      "title": "The BSP says to “prepare for the worst” as El Niño threatens prices and supplies",
+      "line": "The warning comes a week before the central bank’s October 22 rate decision.",
+      "source": "The Manila Times",
+      "url": "https://www.manilatimes.net/2026/10/15/business/top-business/bsp-prepare-for-the-worstamid-el-nio-threat-on-prices-supplies/2445893"
+    },
+    {
+      "title": "Malaysia’s CIMB is said to be considering a sale of its Philippine business",
+      "line": "A deal could value the unit at up to US$200 million.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/malaysia-s-cimb-is-said-to-consider-selling-philippines-business"
+    }
+  ],
+  "regulation": [
+    {
+      "title": "2027 national budget (House Bill 10858)",
+      "body": "Congress",
+      "status": "Passed the House on Oct 12. Now in the Senate.",
+      "url": "https://www.philstar.com/headlines/2026/10/13/2562859/house-votes-281-13-pass-2027-budget"
+    },
+    {
+      "title": "Stricter rules for withholding tax refund claims (RMCs 102-2026 and 103-2026)",
+      "body": "Bureau of Internal Revenue",
+      "status": "Issued. Refund claims now need more documentation.",
+      "url": "https://www.manilatimes.net/2026/10/02/business/top-business/bir-tightens-rules-for-tax-refund-claims/2437458"
+    },
+    {
+      "title": "Policy rate review after September’s inflation jump",
+      "body": "BSP Monetary Board",
+      "status": "Decision due Oct 22.",
+      "url": "https://www.manilatimes.net/2026/10/15/business/top-business/bsp-prepare-for-the-worstamid-el-nio-threat-on-prices-supplies/2445893"
+    }
+  ],
+  "dates": [
+    {
+      "date": "Oct 22",
+      "title": "BSP Monetary Board policy decision",
+      "type": "Monetary policy",
+      "until": "2026-10-22"
+    },
+    {
+      "date": "Nov 1–2",
+      "title": "All Saints’ Day and All Souls’ Day",
+      "type": "Special non-working days",
+      "until": "2026-11-02"
+    },
+    {
+      "date": "Nov 11",
+      "title": "Senate committee report on the 2027 budget",
+      "type": "Budget (target date)",
+      "until": "2026-11-11"
+    },
+    {
+      "date": "Nov 23",
+      "title": "Senate floor debate on the 2027 budget begins",
+      "type": "Budget (target date)",
+      "until": "2026-11-23"
+    },
+    {
+      "date": "Nov 30",
+      "title": "Bonifacio Day",
+      "type": "Regular holiday",
+      "until": "2026-11-30"
+    },
+    {
+      "date": "Dec 8",
+      "title": "Feast of the Immaculate Conception",
+      "type": "Special non-working day",
+      "until": "2026-12-08"
+    }
+  ]
+}
