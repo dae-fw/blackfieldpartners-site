@@ -121,7 +121,7 @@
         root.innerHTML = '<p class="strip-date">As of ' + esc(longDate(d.updated)) + '</p>' +
           d.indicators.map(function (i) {
             return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b></div>';
-          }).join('');
+          }).join('') + '<span class="strip-more">See this week in the Philippines <i>→</i></span>';
         root.classList.add('ready');
         return;
       }

@@ -40,11 +40,15 @@ a.corner:hover { color: var(--accent); }
 .strip b { transition: color .3s; }
 .strip > div > b { display: block; font: 400 clamp(26px, 2.6vw, 40px)/1 var(--serif); letter-spacing: -.01em; margin-top: 10px; font-variant-numeric: tabular-nums; }
 .strip-date { grid-column: 1 / -1; font-size: 13px; color: var(--ink-3); margin-bottom: 4px; }
+.strip-more { grid-column: 1 / -1; justify-self: start; font-size: 14px; padding-bottom: 3px; border-bottom: .5px solid var(--ink); transition: color .3s; }
+.strip-more i { font-style: normal; display: inline-block; transition: transform .5s var(--ease); }
+.strip:hover .strip-more { color: var(--accent); }
+.strip:hover .strip-more i { transform: translateX(5px); }
 .open h1 { font: 400 clamp(48px, 10vw, 168px)/.92 var(--serif); letter-spacing: -.025em; }
 .open h1 em { color: var(--accent); }
 .intro { margin-top: 48px; max-width: 64ch; text-wrap: balance; font-size: clamp(17px, 1.4vw, 20px); color: var(--ink-2); opacity: 0; animation: show 1.2s var(--ease) .8s forwards; }
 /* Extra room above and below so tall letters and descenders aren't clipped by the reveal mask. */
-.line { display: block; overflow: hidden; padding: .14em 0 .08em; margin: -.14em 0 -.08em; }
+.line { display: block; overflow: hidden; padding: .14em 0 .24em; margin: -.14em 0 -.24em; }
 .line > span { display: inline-block; transform: translateY(105%); animation: rise 1.5s var(--ease) forwards; }
 .line:nth-child(2) > span { animation-delay: .12s; }
 .line:nth-child(3) > span { animation-delay: .24s; }
