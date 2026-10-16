@@ -1,9 +1,14 @@
-name: Daily Philippines update
+name: Philippines update
 
 on:
   schedule:
-    - cron: "0 23 * * *"   # 23:00 UTC = 7:00 AM in Manila
-  workflow_dispatch:        # allows a manual run from the Actions tab
+    - cron: "0 23 * * *"          # 7:00 AM Manila, every day
+    - cron: "0 2,4,6,8 * * 1-5"   # 10 AM, 12 PM, 2 PM, 4 PM Manila, weekdays (market hours and close)
+  workflow_dispatch:              # allows a manual run from the Actions tab
+
+concurrency:
+  group: ph-update
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -26,5 +31,5 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Daily Philippines update"
+          git commit -am "Philippines update"
           git push
