@@ -1,13 +1,13 @@
 {
   "updated": "2026-10-16",
-  "updatedTime": "9:01 AM",
+  "updatedTime": "8:40 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.08",
-      "note": "Market rate, Oct 16.",
-      "source": "ExchangeRate-API",
-      "url": "https://www.exchangerate-api.com/"
+      "value": "₱62.91",
+      "note": "Market rate, Oct 16, 8:40 PM.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
     {
       "label": "BSP policy rate",
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,663.17",
-      "note": "Closed Oct 15, up 0.82%.",
+      "value": "5,782.70",
+      "note": "Closed Oct 16, up 2.11%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Lance Gokongwei, Chito Salazar named MAP Management Persons of the Year",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/corporate/2026/10/16/787417/lance-gokongwei-chito-salazar-named-map-management-persons-of-the-year/"
+    },
+    {
+      "title": "Concreat reuses 50M liters of water yearly amid El Niño threat",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/616240/concreat-reuses-50m-liters-of-water-yearly-amid-el-nino-threat"
+    },
+    {
       "title": "Philippines’ cash remittance growth below 2% for third month",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/15/787276/philippines-cash-remittance-growth-below-2-for-third-month/"
     },
     {
-      "title": "Peso sinks past 63:$1 for the first time",
+      "title": "PAL sets week-long seat sale for business, premium economy",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616108/peso-sinks-past-631-for-the-first-time"
+      "url": "https://business.inquirer.net/616233/pal-sets-week-long-seat-sale-for-business-premium-economy"
     },
     {
       "title": "Oil shocks, El Niño may threaten Philippine economic recovery in 2027: World Bank",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/15/787275/oil-shocks-el-nino-may-threaten-philippine-economic-recovery-in-2027-world-bank/"
-    },
-    {
-      "title": "Overseas Filipino remittances hit 3-month bottom in August",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616113/overseas-filipino-remittances-hit-3-month-bottom-in-august"
-    },
-    {
-      "title": "ERC removes capacity limits for power plants to boost electricity supply",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/15/787273/erc-removes-capacity-limits-for-power-plants-to-boost-electricity-supply/"
     }
   ],
   "regulation": [
