@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.92",
-      "note": "Market rate, Oct 15.",
+      "value": "₱63.08",
+      "note": "Market rate, Oct 16.",
       "source": "ExchangeRate-API",
       "url": "https://www.exchangerate-api.com/"
     },
@@ -37,9 +37,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/15/787276/philippines-cash-remittance-growth-below-2-for-third-month/"
     },
     {
-      "title": "Gov’t eyes raising bioethanol blend to 15%",
+      "title": "Peso sinks past 63:$1 for the first time",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616074/govt-eyes-raising-bioethanol-blend-to-15"
+      "url": "https://business.inquirer.net/616108/peso-sinks-past-631-for-the-first-time"
     },
     {
       "title": "Oil shocks, El Niño may threaten Philippine economic recovery in 2027: World Bank",
@@ -47,14 +47,14 @@
       "url": "https://bworldonline.com/top-stories/2026/10/15/787275/oil-shocks-el-nino-may-threaten-philippine-economic-recovery-in-2027-world-bank/"
     },
     {
-      "title": "BIR posts double-digit revenue growth in September 2026",
+      "title": "Overseas Filipino remittances hit 3-month bottom in August",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616105/bir-posts-double-digit-revenue-growth-in-september-2026"
+      "url": "https://business.inquirer.net/616113/overseas-filipino-remittances-hit-3-month-bottom-in-august"
     },
     {
-      "title": "Philippine peso sinks past P63 per dollar for first time",
+      "title": "ERC removes capacity limits for power plants to boost electricity supply",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/15/787274/philippine-peso-sinks-past-p63-per-dollar-for-first-time/"
+      "url": "https://bworldonline.com/top-stories/2026/10/15/787273/erc-removes-capacity-limits-for-power-plants-to-boost-electricity-supply/"
     }
   ],
   "regulation": [
