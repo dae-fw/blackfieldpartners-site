@@ -1,6 +1,11 @@
 (function () {
   var reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  // Footer year follows the current year in Manila.
+  document.querySelectorAll('[data-year]').forEach(function (el) {
+    try { el.textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', timeZone: 'Asia/Manila' }); } catch (e) {}
+  });
+
   // A refresh always starts at the top: don't restore scroll, and don't
   // leave #section in the address bar for the next reload to jump to.
   if ('scrollRestoration' in history) history.scrollRestoration = 'manual';

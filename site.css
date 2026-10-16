@@ -44,7 +44,7 @@ a.corner:hover { color: var(--accent); }
 .strip-more i { font-style: normal; display: inline-block; transition: transform .5s var(--ease); }
 .strip:hover .strip-more { color: var(--accent); border-color: currentColor; }
 .strip:hover .strip-more i { transform: translateX(5px); }
-.open h1 { font: 400 clamp(48px, 10vw, 168px)/.92 var(--serif); letter-spacing: -.025em; }
+.open h1 { font: 400 clamp(33px, 7.6vw, 136px)/.92 var(--serif); letter-spacing: -.025em; }
 .open h1 em { color: var(--accent); }
 .intro { margin-top: 48px; max-width: 64ch; text-wrap: balance; font-size: clamp(17px, 1.4vw, 20px); color: var(--ink-2); opacity: 0; animation: show 1.2s var(--ease) .8s forwards; }
 /* Extra room above and below so tall letters and descenders aren't clipped by the reveal mask. */
