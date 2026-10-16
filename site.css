@@ -40,9 +40,9 @@ a.corner:hover { color: var(--accent); }
 .strip b { transition: color .3s; }
 .strip > div > b { display: block; font: 400 clamp(26px, 2.6vw, 40px)/1 var(--serif); letter-spacing: -.01em; margin-top: 10px; font-variant-numeric: tabular-nums; }
 .strip-date { grid-column: 1 / -1; font-size: 13px; color: var(--ink-3); margin-bottom: 4px; }
-.strip-more { grid-column: 1 / -1; justify-self: start; font-size: 14px; padding-bottom: 3px; border-bottom: .5px solid var(--ink); transition: color .3s; }
+.strip-more { grid-column: 1 / -1; justify-self: start; font-size: 13px; color: var(--ink-3); padding-bottom: 3px; border-bottom: .5px solid var(--rule); transition: color .3s, border-color .3s; }
 .strip-more i { font-style: normal; display: inline-block; transition: transform .5s var(--ease); }
-.strip:hover .strip-more { color: var(--accent); }
+.strip:hover .strip-more { color: var(--accent); border-color: currentColor; }
 .strip:hover .strip-more i { transform: translateX(5px); }
 .open h1 { font: 400 clamp(48px, 10vw, 168px)/.92 var(--serif); letter-spacing: -.025em; }
 .open h1 em { color: var(--accent); }

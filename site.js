@@ -118,7 +118,8 @@
     .then(function (d) {
       if (root.dataset.mode === 'strip') {
         // Homepage: just the four numbers, linking to the full page.
-        root.innerHTML = '<p class="strip-date">As of ' + esc(longDate(d.updated)) + '</p>' +
+        var asOf = longDate(d.updated) + (d.updatedTime ? ', ' + d.updatedTime + ' (Manila time)' : '');
+        root.innerHTML = '<p class="strip-date">As of ' + esc(asOf) + '</p>' +
           d.indicators.map(function (i) {
             return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b></div>';
           }).join('') + '<span class="strip-more">See this week in the Philippines <i>→</i></span>';
@@ -126,7 +127,7 @@
         return;
       }
       var html = '';
-      html += '<p class="ph-updated">Updated ' + esc(longDate(d.updated)) + '</p>';
+      html += '<p class="ph-updated">Updated ' + esc(longDate(d.updated) + (d.updatedTime ? ', ' + d.updatedTime + ' (Manila time)' : '')) + '</p>';
 
       html += '<div class="ph-ind">' + d.indicators.map(function (i) {
         return '<div><span class="ph-k">' + esc(i.label) + '</span><b>' + esc(i.value) + '</b>' +

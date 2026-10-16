@@ -143,6 +143,7 @@ def main():
     data["headlines"] = headlines(data["headlines"], now)
     data["dates"] = [d for d in data["dates"] if d.get("until", "9999-12-31") >= today]
     data["updated"] = today
+    data["updatedTime"] = now.strftime("%I:%M %p").lstrip("0")  # Manila time, e.g. "9:01 AM"
 
     DATA.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     log(f"updated {DATA.name} for {today}")
