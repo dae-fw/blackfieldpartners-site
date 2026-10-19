@@ -72,6 +72,12 @@
       "url": "https://www.manilatimes.net/2026/10/02/business/top-business/bir-tightens-rules-for-tax-refund-claims/2437458"
     },
     {
+      "title": "Mandatory electronic invoicing (RMC 98-2026)",
+      "body": "Bureau of Internal Revenue",
+      "status": "Covered taxpayers must comply by Dec 31. Micro taxpayers are exempt.",
+      "url": "https://tribune.net.ph/2026/09/23/bir-sets-31-december-e-invoicing-deadline"
+    },
+    {
       "title": "Policy rate review after September’s inflation jump",
       "body": "BSP Monetary Board",
       "status": "Decision due Oct 22.",
@@ -92,12 +98,6 @@
       "until": "2026-11-02"
     },
     {
-      "date": "Nov 9–13",
-      "title": "Senate plenary sponsorship of the 2027 budget",
-      "type": "Budget (target week)",
-      "until": "2026-11-13"
-    },
-    {
       "date": "Nov 23",
       "title": "Senate floor debate on the 2027 budget begins",
       "type": "Budget (target date)",
@@ -114,6 +114,18 @@
       "title": "Feast of the Immaculate Conception",
       "type": "Special non-working day",
       "until": "2026-12-08"
+    },
+    {
+      "date": "Dec 24–25",
+      "title": "Christmas Eve and Christmas Day",
+      "type": "Special non-working day and regular holiday",
+      "until": "2026-12-25"
+    },
+    {
+      "date": "Dec 30–31",
+      "title": "Rizal Day and Last Day of the Year",
+      "type": "Regular holiday and special non-working day",
+      "until": "2026-12-31"
     }
   ]
 }
