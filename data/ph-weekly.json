@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-18",
-  "updatedTime": "8:40 AM",
+  "updated": "2026-10-19",
+  "updatedTime": "8:51 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.96",
-      "note": "Market rate, Oct 17, 11:30 AM.",
+      "value": "₱62.98",
+      "note": "Market rate, Oct 19, 8:09 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Atilano brings Filipino farmers’ aspirations to Eisenhower Fellowship",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616438/atilano-brings-filipino-farmers-aspirations-to-eisenhower-fellowship"
+      "title": "Poll: BSP to hike rates by 25 bps anew",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/18/787571/poll-bsp-to-hike-rates-by-25-bps-anew-2/"
     },
     {
-      "title": "Corporate foundations seek bigger social impact through partnerships",
+      "title": "Wrap up VP trial by year-end, biz leader urges Senate",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616444/corporate-foundations-seek-bigger-social-impact-through-partnerships"
+      "url": "https://business.inquirer.net/616589/wrap-up-vp-trial-by-year-end-biz-leader-urges-senate"
     },
     {
-      "title": "Gold in green: Aboitiz helps power up PH energy transition",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616434/gold-in-green-aboitiz-helps-power-up-ph-energy-transition"
+      "title": "Philippines needs productivity boost to sustain UMIC status: World Bank",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/18/787570/philippines-needs-productivity-boost-to-sustain-umic-status-world-bank/"
     },
     {
-      "title": "Peso touches new record low of 63.23:$1 on Fed rate hike bets",
+      "title": "Waste recovery, recycling should come with ‘redesign’",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616249/peso-touches-new-record-low-of-63-231-on-fed-rate-hike-bets"
+      "url": "https://business.inquirer.net/616540/waste-recovery-recycling-should-come-with-redesign"
     },
     {
-      "title": "Gokongwei, Salazar receive top MAP award",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616255/gokongwei-salazar-receive-top-map-award"
+      "title": "Retailers may see modest holiday boost as Filipino shoppers seek value",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/18/787569/retailers-may-see-modest-holiday-boost-as-filipino-shoppers-seek-value/"
     }
   ],
   "regulation": [
