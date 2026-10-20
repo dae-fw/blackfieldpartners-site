@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-19",
-  "updatedTime": "11:11 PM",
+  "updated": "2026-10-20",
+  "updatedTime": "9:36 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.98",
-      "note": "Market rate, Oct 19, 10:24 PM.",
+      "value": "₱63.00",
+      "note": "Market rate, Oct 20, 9:36 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -26,7 +26,7 @@
     {
       "label": "PSE index",
       "value": "5,797.90",
-      "note": "Closed Oct 19, up 0.26%.",
+      "note": "Closed Oct 19, flat.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/19/787906/philippines-bop-deficit-widens-to-3-1b-in-september/"
     },
     {
-      "title": "AboitizPower lauded for contribution to Asean energy sector",
+      "title": "Philippine EV Summit teams up with the country’s largest EV owners’ group",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616658/aboitizpower-lauded-for-contribution-to-asean-energy-sector"
+      "url": "https://business.inquirer.net/616645/philippine-ev-summit-teams-up-with-the-countrys-largest-ev-owners-group"
     },
     {
       "title": "Pag-IBIG eyes P167-B loans as it partners with more developers",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/19/787905/pag-ibig-eyes-p167-b-loans-as-it-partners-with-more-developers/"
     },
     {
-      "title": "GoTyme raises 2026 customer target to 12.5M",
+      "title": "Gasoline, kerosene prices down, diesel up",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616629/gotyme-raises-2026-customer-target-to-12-5m"
+      "url": "https://business.inquirer.net/616738/gasoline-kerosene-prices-down-diesel-up"
     },
     {
       "title": "Philippines-Liechtenstein tax deal seen boosting investments",
