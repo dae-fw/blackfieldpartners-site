@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-20",
-  "updatedTime": "2:58 PM",
+  "updatedTime": "9:11 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.02",
-      "note": "Market rate, Oct 20, 2:57 PM.",
+      "value": "₱63.04",
+      "note": "Market rate, Oct 20, 9:11 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,793.32",
-      "note": "Closed Oct 20, down 0.08%.",
+      "value": "5,806.17",
+      "note": "Closed Oct 20, up 0.14%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "GCash parent Mynt makes PSE debut in record P60.9-B IPO",
+      "title": "DoF not expecting any revenue-target changes",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/20/788054/gcash-parent-mynt-makes-pse-debut-in-record-p60-9-b-ipo/"
+      "url": "https://bworldonline.com/economy/2026/10/20/788215/dof-not-expecting-any-revenue-target-changes/"
     },
     {
-      "title": "Razon Group to buy 30% stake in WPS oil exploration firm",
+      "title": "DOF signs $1.5B ADB deal to address Middle East crisis",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616772/razon-group-to-buy-30-stake-in-wps-oil-exploration-firm"
+      "url": "https://business.inquirer.net/616835/dof-signs-1-5b-adb-deal-to-address-middle-east-crisis"
     },
     {
-      "title": "Philippines’ BoP deficit widens to $3.1B in September",
+      "title": "Power demand expected to surge during El Niño",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/19/787906/philippines-bop-deficit-widens-to-3-1b-in-september/"
+      "url": "https://bworldonline.com/economy/2026/10/20/788214/power-demand-expected-to-surge-during-el-nino/"
     },
     {
-      "title": "Paris-based banking giant sets up PH office",
+      "title": "GCash IPO: 3 Ways Mynt’s Stock Market Debut Could Benefit Filipinos",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616758/paris-based-banking-giant-sets-up-ph-office"
+      "url": "https://business.inquirer.net/616823/gcash-ipo-3-ways-mynts-stock-market-debut-could-benefit-filipinos"
     },
     {
-      "title": "Pag-IBIG eyes P167-B loans as it partners with more developers",
+      "title": "BNPP sale option floated pending completion of feasibility study",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/19/787905/pag-ibig-eyes-p167-b-loans-as-it-partners-with-more-developers/"
+      "url": "https://bworldonline.com/economy/2026/10/20/788213/bnpp-sale-option-floated-pending-completion-of-feasibility-study/"
     }
   ],
   "regulation": [
