@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-20",
-  "updatedTime": "9:36 AM",
+  "updatedTime": "2:58 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.00",
-      "note": "Market rate, Oct 20, 9:36 AM.",
+      "value": "₱63.02",
+      "note": "Market rate, Oct 20, 2:57 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,797.90",
-      "note": "Closed Oct 19, flat.",
+      "value": "5,793.32",
+      "note": "Closed Oct 20, down 0.08%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "GCash parent Mynt makes PSE debut in record P60.9-B IPO",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/20/788054/gcash-parent-mynt-makes-pse-debut-in-record-p60-9-b-ipo/"
+    },
+    {
+      "title": "Razon Group to buy 30% stake in WPS oil exploration firm",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/616772/razon-group-to-buy-30-stake-in-wps-oil-exploration-firm"
+    },
+    {
       "title": "Philippines’ BoP deficit widens to $3.1B in September",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/19/787906/philippines-bop-deficit-widens-to-3-1b-in-september/"
     },
     {
-      "title": "Philippine EV Summit teams up with the country’s largest EV owners’ group",
+      "title": "Paris-based banking giant sets up PH office",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616645/philippine-ev-summit-teams-up-with-the-countrys-largest-ev-owners-group"
+      "url": "https://business.inquirer.net/616758/paris-based-banking-giant-sets-up-ph-office"
     },
     {
       "title": "Pag-IBIG eyes P167-B loans as it partners with more developers",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/19/787905/pag-ibig-eyes-p167-b-loans-as-it-partners-with-more-developers/"
-    },
-    {
-      "title": "Gasoline, kerosene prices down, diesel up",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616738/gasoline-kerosene-prices-down-diesel-up"
-    },
-    {
-      "title": "Philippines-Liechtenstein tax deal seen boosting investments",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/19/787904/philippines-liechtenstein-tax-deal-seen-boosting-investments/"
     }
   ],
   "regulation": [
