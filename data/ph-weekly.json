@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-21",
-  "updatedTime": "2:52 PM",
+  "updatedTime": "9:21 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.29",
-      "note": "Market rate, Oct 21, 2:52 PM.",
+      "value": "₱63.30",
+      "note": "Market rate, Oct 21, 9:18 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,806.52",
-      "note": "Closed Oct 21, up 0.01%.",
+      "value": "5,821.51",
+      "note": "Closed Oct 21, up 0.26%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Inflation risks to keep BSP hawkish",
+      "title": "Philippine peso sinks to 34th record low of 2026",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/20/788200/inflation-risks-to-keep-bsp-hawkish/"
+      "url": "https://bworldonline.com/top-stories/2026/10/21/788489/philippine-peso-sinks-to-34th-record-low-of-2026/"
     },
     {
-      "title": "Peso sets new record low ahead of BSP meet",
+      "title": "BIR sues two companies for P45 million in unpaid taxes",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617116/peso-sets-new-record-low-ahead-of-bsp-meet"
+      "url": "https://business.inquirer.net/617141/bir-sues-two-companies-for-p45-million-in-unpaid-taxes"
     },
     {
-      "title": "Philippine vehicle sales down 6% in September",
+      "title": "Moody’s flags rising risks in Philippine MSME, retail loans",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/20/788199/philippine-vehicle-sales-down-6-in-september/"
+      "url": "https://bworldonline.com/top-stories/2026/10/21/788488/moodys-flags-rising-risks-in-philippine-msme-retail-loans/"
     },
     {
-      "title": "PH’s Best Employers 2027 unveiled",
+      "title": "GSIS offers emergency loans in dengue-, El Niño-hit Bicol areas",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616818/phs-best-employers-2027-unveiled"
+      "url": "https://business.inquirer.net/617134/gsis-offers-emergency-loans-in-dengue-el-nino-hit-bicol-areas"
     },
     {
-      "title": "Mynt makes market debut after record Philippine IPO",
+      "title": "BSP needs to hike by 50 bps: GlobalSource",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/20/788198/mynt-makes-market-debut-after-record-philippine-ipo/"
+      "url": "https://bworldonline.com/top-stories/2026/10/21/788487/bsp-needs-to-hike-by-50-bps-globalsource/"
     }
   ],
   "regulation": [
