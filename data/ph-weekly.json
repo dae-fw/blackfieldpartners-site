@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-21",
-  "updatedTime": "9:19 AM",
+  "updatedTime": "2:52 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.10",
-      "note": "Market rate, Oct 21, 9:19 AM.",
+      "value": "₱63.29",
+      "note": "Market rate, Oct 21, 2:52 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,806.17",
-      "note": "Closed Oct 20, up 0.14%.",
+      "value": "5,806.52",
+      "note": "Closed Oct 21, up 0.01%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/20/788200/inflation-risks-to-keep-bsp-hawkish/"
     },
     {
-      "title": "PH’s Best Employers 2027 unveiled",
+      "title": "Peso sets new record low ahead of BSP meet",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616818/phs-best-employers-2027-unveiled"
+      "url": "https://business.inquirer.net/617116/peso-sets-new-record-low-ahead-of-bsp-meet"
     },
     {
       "title": "Philippine vehicle sales down 6% in September",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/20/788199/philippine-vehicle-sales-down-6-in-september/"
     },
     {
-      "title": "Harnessing the power of generations",
+      "title": "PH’s Best Employers 2027 unveiled",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616987/harnessing-the-power-of-generations"
+      "url": "https://business.inquirer.net/616818/phs-best-employers-2027-unveiled"
     },
     {
       "title": "Mynt makes market debut after record Philippine IPO",
