@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-20",
-  "updatedTime": "9:11 PM",
+  "updated": "2026-10-21",
+  "updatedTime": "9:19 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.04",
-      "note": "Market rate, Oct 20, 9:11 PM.",
+      "value": "₱63.10",
+      "note": "Market rate, Oct 21, 9:19 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "DoF not expecting any revenue-target changes",
+      "title": "Inflation risks to keep BSP hawkish",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/economy/2026/10/20/788215/dof-not-expecting-any-revenue-target-changes/"
+      "url": "https://bworldonline.com/top-stories/2026/10/20/788200/inflation-risks-to-keep-bsp-hawkish/"
     },
     {
-      "title": "DOF signs $1.5B ADB deal to address Middle East crisis",
+      "title": "PH’s Best Employers 2027 unveiled",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616835/dof-signs-1-5b-adb-deal-to-address-middle-east-crisis"
+      "url": "https://business.inquirer.net/616818/phs-best-employers-2027-unveiled"
     },
     {
-      "title": "Power demand expected to surge during El Niño",
+      "title": "Philippine vehicle sales down 6% in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/economy/2026/10/20/788214/power-demand-expected-to-surge-during-el-nino/"
+      "url": "https://bworldonline.com/top-stories/2026/10/20/788199/philippine-vehicle-sales-down-6-in-september/"
     },
     {
-      "title": "GCash IPO: 3 Ways Mynt’s Stock Market Debut Could Benefit Filipinos",
+      "title": "Harnessing the power of generations",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/616823/gcash-ipo-3-ways-mynts-stock-market-debut-could-benefit-filipinos"
+      "url": "https://business.inquirer.net/616987/harnessing-the-power-of-generations"
     },
     {
-      "title": "BNPP sale option floated pending completion of feasibility study",
+      "title": "Mynt makes market debut after record Philippine IPO",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/economy/2026/10/20/788213/bnpp-sale-option-floated-pending-completion-of-feasibility-study/"
+      "url": "https://bworldonline.com/top-stories/2026/10/20/788198/mynt-makes-market-debut-after-record-philippine-ipo/"
     }
   ],
   "regulation": [
