@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-22",
-  "updatedTime": "9:16 AM",
+  "updatedTime": "2:56 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.39",
-      "note": "Market rate, Oct 22, 9:16 AM.",
+      "value": "₱63.35",
+      "note": "Market rate, Oct 22, 2:56 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,821.51",
-      "note": "Closed Oct 21, up 0.26%.",
+      "value": "5,755.07",
+      "note": "Closed Oct 22, down 1.14%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Philippine central bank hikes key rate by 50 bps amid inflation woes",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/22/788621/philippine-central-bank-hikes-key-rate-by-50-bps-amid-inflation-woes/"
+    },
+    {
+      "title": "Ecozone investments soar to P309B, breaking 2026 target",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/617298/ecozone-investments-soar-to-p309b-breaking-2026-target"
+    },
+    {
       "title": "Philippine peso sinks to 34th record low of 2026",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/21/788489/philippine-peso-sinks-to-34th-record-low-of-2026/"
     },
     {
-      "title": "Robinsons Land brings building partners into Bacolod public-space plans",
+      "title": "Mynt faces earnings test after PSE debut",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617104/robinsons-land-brings-building-partners-into-bacolod-public-space-plans"
+      "url": "https://business.inquirer.net/617269/mynt-faces-earnings-test-after-pse-debut"
     },
     {
       "title": "Moody’s flags rising risks in Philippine MSME, retail loans",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/21/788488/moodys-flags-rising-risks-in-philippine-msme-retail-loans/"
-    },
-    {
-      "title": "Pinoys embracing AI in customer service: study",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617148/pinoys-embracing-ai-in-customer-service-study"
-    },
-    {
-      "title": "BSP needs to hike by 50 bps: GlobalSource",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/21/788487/bsp-needs-to-hike-by-50-bps-globalsource/"
     }
   ],
   "regulation": [
