@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-22",
-  "updatedTime": "2:56 PM",
+  "updatedTime": "9:21 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.35",
-      "note": "Market rate, Oct 22, 2:56 PM.",
+      "value": "₱63.48",
+      "note": "Market rate, Oct 22, 9:21 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,755.07",
-      "note": "Closed Oct 22, down 1.14%.",
+      "value": "5,779.73",
+      "note": "Closed Oct 22, down 0.72%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine central bank hikes key rate by 50 bps amid inflation woes",
+      "title": "Toyota Motor Philippines seeks state support as exports soften",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/22/788621/philippine-central-bank-hikes-key-rate-by-50-bps-amid-inflation-woes/"
+      "url": "https://bworldonline.com/corporate/2026/10/22/788751/toyota-motor-philippines-seeks-state-support-as-exports-soften/"
     },
     {
-      "title": "Ecozone investments soar to P309B, breaking 2026 target",
+      "title": "DOF eyes general tax amnesty bill by year-end",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617298/ecozone-investments-soar-to-p309b-breaking-2026-target"
+      "url": "https://business.inquirer.net/617337/dof-eyes-general-tax-amnesty-bill-by-year-end"
     },
     {
-      "title": "Philippine peso sinks to 34th record low of 2026",
+      "title": "PSE studies benchmark for Islamic finance",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/21/788489/philippine-peso-sinks-to-34th-record-low-of-2026/"
+      "url": "https://bworldonline.com/corporate/2026/10/22/788750/pse-studies-benchmark-for-islamic-finance/"
     },
     {
-      "title": "Mynt faces earnings test after PSE debut",
+      "title": "PSEi snaps 5-day rally on profit-taking",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617269/mynt-faces-earnings-test-after-pse-debut"
+      "url": "https://business.inquirer.net/617332/psei-snaps-5-day-rally-on-profit-taking"
     },
     {
-      "title": "Moody’s flags rising risks in Philippine MSME, retail loans",
+      "title": "ADB weighs $500-M loan for SM project",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/21/788488/moodys-flags-rising-risks-in-philippine-msme-retail-loans/"
+      "url": "https://bworldonline.com/corporate/2026/10/22/788749/adb-weighs-500-m-loan-for-sm-project/"
     }
   ],
   "regulation": [
