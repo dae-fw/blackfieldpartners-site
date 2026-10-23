@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-23",
-  "updatedTime": "2:49 PM",
+  "updatedTime": "9:00 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.41",
-      "note": "Market rate, Oct 23, 2:49 PM.",
+      "value": "₱63.58",
+      "note": "Market rate, Oct 23, 8:59 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,706.41",
-      "note": "Closed Oct 23, down 1.27%.",
+      "value": "5,728.63",
+      "note": "Closed Oct 23, down 0.88%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/"
     },
     {
-      "title": "Diesel prices poised to climb next week",
+      "title": "PSEi falls to 5,728 on rate hike, weaker peso",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617515/diesel-prices-poised-to-climb-next-week"
+      "url": "https://business.inquirer.net/617579/psei-falls-to-5728-on-rate-hike-weaker-peso"
     },
     {
       "title": "Money managers say there’s nowhere to hide as Super El Niño forms",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/"
     },
     {
-      "title": "DTI mulls over mandatory certification for e-bikes, batteries",
+      "title": "Peso breaches 63.6:$1 level",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617513/dti-mulls-over-mandatory-certification-for-e-bikes-batteries"
+      "url": "https://business.inquirer.net/617575/peso-breaches-63-61-level"
     },
     {
       "title": "BSP surprises with jumbo rate hike, signals further tightening",
