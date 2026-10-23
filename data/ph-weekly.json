@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-22",
-  "updatedTime": "9:21 PM",
+  "updated": "2026-10-23",
+  "updatedTime": "9:15 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.48",
-      "note": "Market rate, Oct 22, 9:21 PM.",
+      "value": "₱63.36",
+      "note": "Market rate, Oct 23, 9:13 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Toyota Motor Philippines seeks state support as exports soften",
+      "title": "BSP surprises with jumbo rate hike, signals further tightening",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/corporate/2026/10/22/788751/toyota-motor-philippines-seeks-state-support-as-exports-soften/"
+      "url": "https://bworldonline.com/top-stories/2026/10/22/788741/bsp-surprises-with-jumbo-rate-hike-signals-further-tightening/"
     },
     {
-      "title": "DOF eyes general tax amnesty bill by year-end",
+      "title": "DTI: Price freeze on basic goods until year-end",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617337/dof-eyes-general-tax-amnesty-bill-by-year-end"
+      "url": "https://business.inquirer.net/617504/dti-price-freeze-on-basic-goods-until-year-end"
     },
     {
-      "title": "PSE studies benchmark for Islamic finance",
+      "title": "Philippine budget deficit widens slightly in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/corporate/2026/10/22/788750/pse-studies-benchmark-for-islamic-finance/"
+      "url": "https://bworldonline.com/top-stories/2026/10/22/788740/philippine-budget-deficit-widens-slightly-in-september/"
     },
     {
-      "title": "PSEi snaps 5-day rally on profit-taking",
+      "title": "DBM moves budget request deadline 2 weeks earlier",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617332/psei-snaps-5-day-rally-on-profit-taking"
+      "url": "https://business.inquirer.net/617350/dbm-moves-budget-request-deadline-2-weeks-earlier"
     },
     {
-      "title": "ADB weighs $500-M loan for SM project",
+      "title": "PEZA beats full-year investment target in Oct.",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/corporate/2026/10/22/788749/adb-weighs-500-m-loan-for-sm-project/"
+      "url": "https://bworldonline.com/top-stories/2026/10/22/788739/peza-beats-full-year-investment-target-in-oct/"
     }
   ],
   "regulation": [
@@ -85,12 +85,6 @@
     }
   ],
   "dates": [
-    {
-      "date": "Oct 22",
-      "title": "BSP Monetary Board policy decision",
-      "type": "Monetary policy",
-      "until": "2026-10-22"
-    },
     {
       "date": "Nov 1–2",
       "title": "All Saints’ Day and All Souls’ Day",
