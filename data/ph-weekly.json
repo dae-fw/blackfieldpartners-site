@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-23",
-  "updatedTime": "9:15 AM",
+  "updatedTime": "2:49 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.36",
-      "note": "Market rate, Oct 23, 9:13 AM.",
+      "value": "₱63.41",
+      "note": "Market rate, Oct 23, 2:49 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,779.73",
-      "note": "Closed Oct 22, down 0.72%.",
+      "value": "5,706.41",
+      "note": "Closed Oct 23, down 1.27%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "US backs Philippines’ ube push with $34.1 million funding",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/"
+    },
+    {
+      "title": "Diesel prices poised to climb next week",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/617515/diesel-prices-poised-to-climb-next-week"
+    },
+    {
+      "title": "Money managers say there’s nowhere to hide as Super El Niño forms",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/"
+    },
+    {
+      "title": "DTI mulls over mandatory certification for e-bikes, batteries",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/617513/dti-mulls-over-mandatory-certification-for-e-bikes-batteries"
+    },
+    {
       "title": "BSP surprises with jumbo rate hike, signals further tightening",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/22/788741/bsp-surprises-with-jumbo-rate-hike-signals-further-tightening/"
-    },
-    {
-      "title": "DTI: Price freeze on basic goods until year-end",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617504/dti-price-freeze-on-basic-goods-until-year-end"
-    },
-    {
-      "title": "Philippine budget deficit widens slightly in September",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/22/788740/philippine-budget-deficit-widens-slightly-in-september/"
-    },
-    {
-      "title": "DBM moves budget request deadline 2 weeks earlier",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617350/dbm-moves-budget-request-deadline-2-weeks-earlier"
-    },
-    {
-      "title": "PEZA beats full-year investment target in Oct.",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/22/788739/peza-beats-full-year-investment-target-in-oct/"
     }
   ],
   "regulation": [
