@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-23",
-  "updatedTime": "9:00 PM",
+  "updated": "2026-10-24",
+  "updatedTime": "9:23 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.58",
-      "note": "Market rate, Oct 23, 8:59 PM.",
+      "value": "₱63.56",
+      "note": "Market rate, Oct 24, 1:18 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/"
     },
     {
-      "title": "PSEi falls to 5,728 on rate hike, weaker peso",
+      "title": "The Frontlines of Health Care: How local leadership is shaping the UHC promise",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617579/psei-falls-to-5728-on-rate-hike-weaker-peso"
+      "url": "https://business.inquirer.net/617345/the-frontlines-of-health-care-how-local-leadership-is-shaping-the-uhc-promise"
     },
     {
       "title": "Money managers say there’s nowhere to hide as Super El Niño forms",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/"
     },
     {
-      "title": "Peso breaches 63.6:$1 level",
+      "title": "UnionBank profit jumps 53% to P9.9B in nine months",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617575/peso-breaches-63-61-level"
+      "url": "https://business.inquirer.net/617582/unionbank-profit-jumps-53-to-p9-9b-in-nine-months"
     },
     {
       "title": "BSP surprises with jumbo rate hike, signals further tightening",
