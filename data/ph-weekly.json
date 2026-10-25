@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-24",
-  "updatedTime": "9:23 AM",
+  "updated": "2026-10-25",
+  "updatedTime": "8:52 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.56",
-      "note": "Market rate, Oct 24, 1:18 AM.",
+      "value": "₱63.58",
+      "note": "Market rate, Oct 24, 11:30 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/"
     },
     {
-      "title": "The Frontlines of Health Care: How local leadership is shaping the UHC promise",
+      "title": "JT Group seeks to future-proof tobacco business",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617345/the-frontlines-of-health-care-how-local-leadership-is-shaping-the-uhc-promise"
+      "url": "https://business.inquirer.net/617864/jt-group-seeks-to-future-proof-tobacco-business"
     },
     {
       "title": "Money managers say there’s nowhere to hide as Super El Niño forms",
@@ -48,14 +48,14 @@
       "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/"
     },
     {
-      "title": "UnionBank profit jumps 53% to P9.9B in nine months",
+      "title": "Coffee gets pricier amid global, local supply crunch",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617582/unionbank-profit-jumps-53-to-p9-9b-in-nine-months"
+      "url": "https://business.inquirer.net/617872/coffee-gets-pricier-amid-global-local-supply-crunch"
     },
     {
-      "title": "BSP surprises with jumbo rate hike, signals further tightening",
+      "title": "Taiwan says China using militia boats to expand ‘battlefield preparation’ in western Pacific",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/22/788741/bsp-surprises-with-jumbo-rate-hike-signals-further-tightening/"
+      "url": "https://bworldonline.com/world/2026/10/23/788913/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/"
     }
   ],
   "regulation": [
