@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-26",
-  "updatedTime": "3:17 PM",
+  "updatedTime": "10:44 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
       "value": "₱63.89",
-      "note": "Market rate, Oct 26, 3:17 PM.",
+      "note": "Market rate, Oct 26, 10:42 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Dizon, Lopez swap Cabinet posts",
+      "title": "Peso sinks to new low, nears 64:$1",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/the-nation/2026/10/26/789229/dizon-lopez-swap-cabinet-posts/"
+      "url": "https://bworldonline.com/top-stories/2026/10/26/789395/peso-sinks-to-new-low-nears-641/"
     },
     {
-      "title": "Pag-Ibig housing loans reach P111B in end-September",
+      "title": "Deadline for online posting of BIR Registration Seal Badge suspended",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618017/pag-ibig-housing-loans-reach-p111b-in-end-september"
+      "url": "https://business.inquirer.net/618078/deadline-for-online-posting-of-bir-registration-seal-badge-suspended"
     },
     {
-      "title": "Infrastructure spending falls for 14th straight month in August",
+      "title": "BSP urged to keep tightening to protect long-term growth",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/25/789128/infrastructure-spending-falls-for-14th-straight-month-in-august/"
+      "url": "https://bworldonline.com/top-stories/2026/10/26/789394/bsp-urged-to-keep-tightening-to-protect-long-term-growth/"
     },
     {
-      "title": "Biz risks in PH ‘elevated’ amid economic, political woes",
+      "title": "BIR extends VAT, percentage tax filing deadline to Oct. 29",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617999/biz-risks-in-ph-elevated-amid-economic-political-woes"
+      "url": "https://business.inquirer.net/618074/bir-extends-vat-percentage-tax-filing-deadline-to-oct-29"
     },
     {
-      "title": "More BSP hikes underway as inflation risks intensify",
+      "title": "El Niño threatens Philippine farm output, hydropower supply",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/25/789059/more-bsp-hikes-underway-as-inflation-risks-intensify/"
+      "url": "https://bworldonline.com/top-stories/2026/10/26/789396/el-nino-threatens-philippine-farm-output-hydropower-supply/"
     }
   ],
   "regulation": [
