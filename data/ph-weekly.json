@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-26",
-  "updatedTime": "9:00 AM",
+  "updatedTime": "3:17 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.55",
-      "note": "Market rate, Oct 26, 6:34 AM.",
+      "value": "₱63.89",
+      "note": "Market rate, Oct 26, 3:17 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,728.63",
-      "note": "Closed Oct 23, down 0.88%.",
+      "value": "5,641.18",
+      "note": "Closed Oct 26, down 1.53%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Dizon, Lopez swap Cabinet posts",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/the-nation/2026/10/26/789229/dizon-lopez-swap-cabinet-posts/"
+    },
+    {
+      "title": "Pag-Ibig housing loans reach P111B in end-September",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/618017/pag-ibig-housing-loans-reach-p111b-in-end-september"
+    },
+    {
       "title": "Infrastructure spending falls for 14th straight month in August",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/25/789128/infrastructure-spending-falls-for-14th-straight-month-in-august/"
     },
     {
-      "title": "BSP’s inflation fight dims rate cut hopes",
+      "title": "Biz risks in PH ‘elevated’ amid economic, political woes",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617934/bsps-inflation-fight-dims-rate-cut-hopes"
+      "url": "https://business.inquirer.net/617999/biz-risks-in-ph-elevated-amid-economic-political-woes"
     },
     {
       "title": "More BSP hikes underway as inflation risks intensify",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/25/789059/more-bsp-hikes-underway-as-inflation-risks-intensify/"
-    },
-    {
-      "title": "PH manufacturing staging comeback",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617938/ph-manufacturing-staging-comeback"
-    },
-    {
-      "title": "Gross borrowings rise by 8% in September",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/25/789058/gross-borrowings-rise-by-8-in-september/"
     }
   ],
   "regulation": [
