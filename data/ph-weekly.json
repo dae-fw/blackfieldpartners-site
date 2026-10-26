@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25",
-  "updatedTime": "8:52 AM",
+  "updated": "2026-10-26",
+  "updatedTime": "9:00 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.58",
-      "note": "Market rate, Oct 24, 11:30 AM.",
+      "value": "₱63.55",
+      "note": "Market rate, Oct 26, 6:34 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "US backs Philippines’ ube push with $34.1 million funding",
+      "title": "Infrastructure spending falls for 14th straight month in August",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/"
+      "url": "https://bworldonline.com/top-stories/2026/10/25/789128/infrastructure-spending-falls-for-14th-straight-month-in-august/"
     },
     {
-      "title": "JT Group seeks to future-proof tobacco business",
+      "title": "BSP’s inflation fight dims rate cut hopes",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617864/jt-group-seeks-to-future-proof-tobacco-business"
+      "url": "https://business.inquirer.net/617934/bsps-inflation-fight-dims-rate-cut-hopes"
     },
     {
-      "title": "Money managers say there’s nowhere to hide as Super El Niño forms",
+      "title": "More BSP hikes underway as inflation risks intensify",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/"
+      "url": "https://bworldonline.com/top-stories/2026/10/25/789059/more-bsp-hikes-underway-as-inflation-risks-intensify/"
     },
     {
-      "title": "Coffee gets pricier amid global, local supply crunch",
+      "title": "PH manufacturing staging comeback",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/617872/coffee-gets-pricier-amid-global-local-supply-crunch"
+      "url": "https://business.inquirer.net/617938/ph-manufacturing-staging-comeback"
     },
     {
-      "title": "Taiwan says China using militia boats to expand ‘battlefield preparation’ in western Pacific",
+      "title": "Gross borrowings rise by 8% in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/world/2026/10/23/788913/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/"
+      "url": "https://bworldonline.com/top-stories/2026/10/25/789058/gross-borrowings-rise-by-8-in-september/"
     }
   ],
   "regulation": [
