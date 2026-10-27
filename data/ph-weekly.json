@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26",
-  "updatedTime": "10:44 PM",
+  "updated": "2026-10-27",
+  "updatedTime": "9:50 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.89",
-      "note": "Market rate, Oct 26, 10:42 PM.",
+      "value": "₱63.96",
+      "note": "Market rate, Oct 27, 9:50 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,641.18",
-      "note": "Closed Oct 26, down 1.53%.",
+      "value": "5,689.60",
+      "note": "Closed Oct 27, up 0.86%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/26/789395/peso-sinks-to-new-low-nears-641/"
     },
     {
-      "title": "Deadline for online posting of BIR Registration Seal Badge suspended",
+      "title": "New diesel price hike set Oct. 27",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618078/deadline-for-online-posting-of-bir-registration-seal-badge-suspended"
+      "url": "https://business.inquirer.net/618156/new-diesel-price-hike-set-oct-27"
     },
     {
       "title": "BSP urged to keep tightening to protect long-term growth",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/26/789394/bsp-urged-to-keep-tightening-to-protect-long-term-growth/"
     },
     {
-      "title": "BIR extends VAT, percentage tax filing deadline to Oct. 29",
+      "title": "Taiwan sees growth potential in PH food sector",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618074/bir-extends-vat-percentage-tax-filing-deadline-to-oct-29"
+      "url": "https://business.inquirer.net/618068/taiwan-sees-growth-potential-in-ph-food-sector"
     },
     {
       "title": "El Niño threatens Philippine farm output, hydropower supply",
