@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-27",
-  "updatedTime": "3:09 PM",
+  "updatedTime": "9:51 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.95",
-      "note": "Market rate, Oct 27, 3:08 PM.",
+      "value": "₱63.99",
+      "note": "Market rate, Oct 27, 7:03 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "CIMB said to attract BPI, Metrobank for Philippine unit sale",
+      "title": "Peso weakens past 64:$1 for 1st time",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/banking-finance/2026/10/27/789532/cimb-said-to-attract-bpi-metrobank-for-philippine-unit-sale/"
+      "url": "https://bworldonline.com/top-stories/2026/10/27/789637/peso-weakens-past-641-for-1st-time/"
     },
     {
-      "title": "Privacy risks halt BIR’s registration seal display order",
+      "title": "WB urges PH to connect growth corridors outside Metro Manila",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618204/privacy-risks-halt-birs-registration-seal-display-order"
+      "url": "https://business.inquirer.net/618244/wb-urges-ph-to-connect-growth-corridors-outside-metro-manila"
     },
     {
-      "title": "Peso sinks to new low, nears 64:$1",
+      "title": "BoI approves P278 billion investments in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/26/789395/peso-sinks-to-new-low-nears-641/"
+      "url": "https://bworldonline.com/top-stories/2026/10/27/789635/boi-approves-p278-billion-investments-in-september/"
     },
     {
-      "title": "Power plant outages trigger new red alert over Visayas grid",
+      "title": "PSEi rebounds 2.13% as investors snap up bargains",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618201/power-plant-outages-trigger-new-red-alert-over-visayas-grid"
+      "url": "https://business.inquirer.net/618238/psei-rebounds-2-13-as-investors-snap-up-bargains"
     },
     {
-      "title": "BSP urged to keep tightening to protect long-term growth",
+      "title": "Productive cities, economic corridors key to Philippine growth: WB",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/26/789394/bsp-urged-to-keep-tightening-to-protect-long-term-growth/"
+      "url": "https://bworldonline.com/top-stories/2026/10/27/789634/productive-cities-economic-corridors-key-to-philippine-growth-wb/"
     }
   ],
   "regulation": [
