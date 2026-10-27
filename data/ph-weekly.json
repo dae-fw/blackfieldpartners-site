@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-27",
-  "updatedTime": "9:50 AM",
+  "updatedTime": "3:09 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.96",
-      "note": "Market rate, Oct 27, 9:50 AM.",
+      "value": "₱63.95",
+      "note": "Market rate, Oct 27, 3:08 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,689.60",
-      "note": "Closed Oct 27, up 0.86%.",
+      "value": "5,761.19",
+      "note": "Closed Oct 27, up 2.13%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "CIMB said to attract BPI, Metrobank for Philippine unit sale",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/banking-finance/2026/10/27/789532/cimb-said-to-attract-bpi-metrobank-for-philippine-unit-sale/"
+    },
+    {
+      "title": "Privacy risks halt BIR’s registration seal display order",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/618204/privacy-risks-halt-birs-registration-seal-display-order"
+    },
+    {
       "title": "Peso sinks to new low, nears 64:$1",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/26/789395/peso-sinks-to-new-low-nears-641/"
     },
     {
-      "title": "New diesel price hike set Oct. 27",
+      "title": "Power plant outages trigger new red alert over Visayas grid",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618156/new-diesel-price-hike-set-oct-27"
+      "url": "https://business.inquirer.net/618201/power-plant-outages-trigger-new-red-alert-over-visayas-grid"
     },
     {
       "title": "BSP urged to keep tightening to protect long-term growth",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/26/789394/bsp-urged-to-keep-tightening-to-protect-long-term-growth/"
-    },
-    {
-      "title": "Taiwan sees growth potential in PH food sector",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618068/taiwan-sees-growth-potential-in-ph-food-sector"
-    },
-    {
-      "title": "El Niño threatens Philippine farm output, hydropower supply",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/26/789396/el-nino-threatens-philippine-farm-output-hydropower-supply/"
     }
   ],
   "regulation": [
