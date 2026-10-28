@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-28",
-  "updatedTime": "10:01 AM",
+  "updatedTime": "3:48 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.99",
-      "note": "Market rate, Oct 27, 7:03 PM.",
+      "value": "₱63.97",
+      "note": "Market rate, Oct 28, 3:48 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,17 +25,27 @@
     },
     {
       "label": "PSE index",
-      "value": "5,683.57",
-      "note": "Closed Oct 28, down 1.35%.",
+      "value": "5,653.55",
+      "note": "Closed Oct 28, down 1.87%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Peso weakens past 64:$1 for 1st time",
+      "title": "Marcos pledges to “do all we can” to defend peso",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/27/789637/peso-weakens-past-641-for-1st-time/"
+      "url": "https://bworldonline.com/bloomberg/2026/10/28/789839/marcos-pledges-to-do-all-we-can-to-defend-peso/"
+    },
+    {
+      "title": "Metrobank marks six years as Philippines’ Strongest Bank",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/618291/metrobank-marks-six-years-as-philippines-strongest-bank"
+    },
+    {
+      "title": "German Chancellor pitches closer EU-Asia ties, warns of China pressure",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/world/2026/10/28/789803/german-chancellor-pitches-closer-eu-asia-ties-warns-of-china-pressure/"
     },
     {
       "title": "UK investor BII eyes LEC climate infra projects",
@@ -43,19 +53,9 @@
       "url": "https://business.inquirer.net/618250/uk-investor-bii-eyes-lec-climate-infra-projects"
     },
     {
-      "title": "BoI approves P278 billion investments in September",
+      "title": "Peso weakens past 64:$1 for 1st time",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/27/789635/boi-approves-p278-billion-investments-in-september/"
-    },
-    {
-      "title": "Imports remain subdued despite stronger demand for key goods",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618252/imports-remain-subdued-despite-stronger-demand-for-key-goods"
-    },
-    {
-      "title": "Productive cities, economic corridors key to Philippine growth: WB",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/27/789634/productive-cities-economic-corridors-key-to-philippine-growth-wb/"
+      "url": "https://bworldonline.com/top-stories/2026/10/27/789637/peso-weakens-past-641-for-1st-time/"
     }
   ],
   "regulation": [
