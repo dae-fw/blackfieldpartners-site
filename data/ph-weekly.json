@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-28",
-  "updatedTime": "3:48 PM",
+  "updatedTime": "10:46 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.97",
-      "note": "Market rate, Oct 28, 3:48 PM.",
+      "value": "₱63.94",
+      "note": "Market rate, Oct 28, 10:46 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Marcos pledges to “do all we can” to defend peso",
+      "title": "Peso recovers as Marcos signals currency defense",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/10/28/789839/marcos-pledges-to-do-all-we-can-to-defend-peso/"
+      "url": "https://bworldonline.com/top-stories/2026/10/28/789969/peso-recovers-as-marcos-signals-currency-defense/"
     },
     {
-      "title": "Metrobank marks six years as Philippines’ Strongest Bank",
+      "title": "BIR eyes expansion of abatement program for micro taxpayers",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618291/metrobank-marks-six-years-as-philippines-strongest-bank"
+      "url": "https://business.inquirer.net/618609/bir-eyes-expansion-of-abatement-program-for-micro-taxpayers"
     },
     {
-      "title": "German Chancellor pitches closer EU-Asia ties, warns of China pressure",
+      "title": "External headwinds complicate BSP’s bid to temper peso volatility",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/world/2026/10/28/789803/german-chancellor-pitches-closer-eu-asia-ties-warns-of-china-pressure/"
+      "url": "https://bworldonline.com/top-stories/2026/10/28/789968/external-headwinds-complicate-bsps-bid-to-temper-peso-volatility/"
     },
     {
-      "title": "UK investor BII eyes LEC climate infra projects",
+      "title": "Mining Philippines 2026 highlights critical minerals push",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618250/uk-investor-bii-eyes-lec-climate-infra-projects"
+      "url": "https://business.inquirer.net/618606/mining-philippines-2026-highlights-critical-minerals-push"
     },
     {
-      "title": "Peso weakens past 64:$1 for 1st time",
+      "title": "Philippine financial system resources jump to new high as of August",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/27/789637/peso-weakens-past-641-for-1st-time/"
+      "url": "https://bworldonline.com/top-stories/2026/10/28/789967/philippine-financial-system-resources-jump-to-new-high-as-of-august/"
     }
   ],
   "regulation": [
