@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27",
-  "updatedTime": "9:51 PM",
+  "updated": "2026-10-28",
+  "updatedTime": "10:01 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,761.19",
-      "note": "Closed Oct 27, up 2.13%.",
+      "value": "5,683.57",
+      "note": "Closed Oct 28, down 1.35%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/27/789637/peso-weakens-past-641-for-1st-time/"
     },
     {
-      "title": "WB urges PH to connect growth corridors outside Metro Manila",
+      "title": "UK investor BII eyes LEC climate infra projects",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618244/wb-urges-ph-to-connect-growth-corridors-outside-metro-manila"
+      "url": "https://business.inquirer.net/618250/uk-investor-bii-eyes-lec-climate-infra-projects"
     },
     {
       "title": "BoI approves P278 billion investments in September",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/27/789635/boi-approves-p278-billion-investments-in-september/"
     },
     {
-      "title": "PSEi rebounds 2.13% as investors snap up bargains",
+      "title": "Imports remain subdued despite stronger demand for key goods",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618238/psei-rebounds-2-13-as-investors-snap-up-bargains"
+      "url": "https://business.inquirer.net/618252/imports-remain-subdued-despite-stronger-demand-for-key-goods"
     },
     {
       "title": "Productive cities, economic corridors key to Philippine growth: WB",
