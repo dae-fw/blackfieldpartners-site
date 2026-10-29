@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-29",
-  "updatedTime": "3:53 PM",
+  "updatedTime": "10:52 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.81",
-      "note": "Market rate, Oct 29, 3:52 PM.",
+      "value": "₱63.73",
+      "note": "Market rate, Oct 29, 9:59 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Philippines may use more tools to stem peso slide, analysts say",
+      "title": "Philippine banks’ NPL ratio slips to 9-month low",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/29/790095/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say/"
+      "url": "https://bworldonline.com/top-stories/2026/10/29/790302/philippine-banks-npl-ratio-slips-to-9-month-low/"
     },
     {
-      "title": "ERC weighs relief measures to temper power rate hikes",
+      "title": "Michelin Guide awards new PH star",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618656/erc-weighs-relief-measures-to-temper-power-rate-hikes"
+      "url": "https://business.inquirer.net/618737/michelin-guide-awards-new-ph-star"
     },
     {
-      "title": "Peso recovers as Marcos signals currency defense",
+      "title": "Business groups call for removal of unjustified budget insertions",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/28/789969/peso-recovers-as-marcos-signals-currency-defense/"
+      "url": "https://bworldonline.com/top-stories/2026/10/29/790301/business-groups-call-for-removal-of-unjustified-budget-insertions/"
     },
     {
-      "title": "Nickel production likely to stay flat this year",
+      "title": "Aboitiz Power 9-mo profit rises to P26.2B",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618658/nickel-production-likely-to-stay-flat-this-year"
+      "url": "https://business.inquirer.net/618727/aboitiz-power-9-mo-profit-rises-to-p26-2b"
     },
     {
-      "title": "External headwinds complicate BSP’s bid to temper peso volatility",
+      "title": "DoF presses Congress to approve ProGRESS bill",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/28/789968/external-headwinds-complicate-bsps-bid-to-temper-peso-volatility/"
+      "url": "https://bworldonline.com/top-stories/2026/10/29/790300/dof-presses-congress-to-approve-progress-bill/"
     }
   ],
   "regulation": [
