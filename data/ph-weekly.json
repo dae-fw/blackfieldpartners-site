@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28",
-  "updatedTime": "10:46 PM",
+  "updated": "2026-10-29",
+  "updatedTime": "10:09 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.94",
-      "note": "Market rate, Oct 28, 10:46 PM.",
+      "value": "₱63.81",
+      "note": "Market rate, Oct 29, 10:08 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,653.55",
-      "note": "Closed Oct 28, down 1.87%.",
+      "value": "5,701.02",
+      "note": "Closed Oct 29, up 0.84%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/28/789969/peso-recovers-as-marcos-signals-currency-defense/"
     },
     {
-      "title": "BIR eyes expansion of abatement program for micro taxpayers",
+      "title": "Red alert up anew over Visayas grid",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618609/bir-eyes-expansion-of-abatement-program-for-micro-taxpayers"
+      "url": "https://business.inquirer.net/618640/red-alert-up-anew-over-visayas-grid"
     },
     {
       "title": "External headwinds complicate BSP’s bid to temper peso volatility",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/28/789968/external-headwinds-complicate-bsps-bid-to-temper-peso-volatility/"
     },
     {
-      "title": "Mining Philippines 2026 highlights critical minerals push",
+      "title": "PSE nears full PDS Group takeover",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618606/mining-philippines-2026-highlights-critical-minerals-push"
+      "url": "https://business.inquirer.net/618578/pse-nears-full-pds-group-takeover"
     },
     {
       "title": "Philippine financial system resources jump to new high as of August",
