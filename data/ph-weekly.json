@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-29",
-  "updatedTime": "10:09 AM",
+  "updatedTime": "3:53 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
       "value": "₱63.81",
-      "note": "Market rate, Oct 29, 10:08 AM.",
+      "note": "Market rate, Oct 29, 3:52 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,701.02",
-      "note": "Closed Oct 29, up 0.84%.",
+      "value": "5,705.58",
+      "note": "Closed Oct 29, up 0.92%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Philippines may use more tools to stem peso slide, analysts say",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/10/29/790095/philippines-may-use-more-tools-to-stem-peso-slide-analysts-say/"
+    },
+    {
+      "title": "ERC weighs relief measures to temper power rate hikes",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/618656/erc-weighs-relief-measures-to-temper-power-rate-hikes"
+    },
+    {
       "title": "Peso recovers as Marcos signals currency defense",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/28/789969/peso-recovers-as-marcos-signals-currency-defense/"
     },
     {
-      "title": "Red alert up anew over Visayas grid",
+      "title": "Nickel production likely to stay flat this year",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618640/red-alert-up-anew-over-visayas-grid"
+      "url": "https://business.inquirer.net/618658/nickel-production-likely-to-stay-flat-this-year"
     },
     {
       "title": "External headwinds complicate BSP’s bid to temper peso volatility",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/28/789968/external-headwinds-complicate-bsps-bid-to-temper-peso-volatility/"
-    },
-    {
-      "title": "PSE nears full PDS Group takeover",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618578/pse-nears-full-pds-group-takeover"
-    },
-    {
-      "title": "Philippine financial system resources jump to new high as of August",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/28/789967/philippine-financial-system-resources-jump-to-new-high-as-of-august/"
     }
   ],
   "regulation": [
