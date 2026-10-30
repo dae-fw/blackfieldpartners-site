@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-30",
-  "updatedTime": "3:56 PM",
+  "updatedTime": "10:49 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.73",
-      "note": "Market rate, Oct 30, 3:31 PM.",
+      "value": "₱63.64",
+      "note": "Market rate, Oct 30, 10:49 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
+      "title": "China-hawk Philippine defense chief Teodoro open to presidential bid",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/bloomberg/2026/10/30/790519/china-hawk-philippine-defense-chief-teodoro-open-to-presidential-bid/"
+    },
+    {
+      "title": "Asian property firms shift from owning more to earning more",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/618922/asian-property-firms-shift-from-owning-more-to-earning-more"
+    },
+    {
       "title": "Philippine trade gap widens in September as exports grow fastest in 5 years",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/30/790480/philippine-trade-gap-widens-in-september-as-exports-grow-fastest-in-5-years/"
     },
     {
-      "title": "PH pushes wider social security coverage for freelancers",
+      "title": "Philex core profit jumps 56% on lofty metal prices",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618847/ph-pushes-wider-social-security-coverage-for-freelancers"
+      "url": "https://business.inquirer.net/618881/philex-core-profit-jumps-56-on-lofty-metal-prices"
     },
     {
       "title": "BSP: Inflation likely between 7.1-8.1% in October",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/10/30/790449/bsp-inflation-likely-between-7-1-8-1-in-october/"
-    },
-    {
-      "title": "From Stars to Bib Gourmand: How the Michelin Guide Judges Food",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618840/from-stars-to-bib-gourmand-how-the-michelin-guide-judges-food"
-    },
-    {
-      "title": "Philippine bonds most vulnerable in emerging Asia to Fed hikes",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/30/790404/philippine-bonds-most-vulnerable-in-emerging-asia-to-fed-hikes/"
     }
   ],
   "regulation": [
