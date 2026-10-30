@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-29",
-  "updatedTime": "10:52 PM",
+  "updated": "2026-10-30",
+  "updatedTime": "10:25 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.73",
-      "note": "Market rate, Oct 29, 9:59 PM.",
+      "value": "₱63.62",
+      "note": "Market rate, Oct 30, 10:25 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,705.58",
-      "note": "Closed Oct 29, up 0.92%.",
+      "value": "5,681.99",
+      "note": "Closed Oct 30, down 0.41%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/29/790302/philippine-banks-npl-ratio-slips-to-9-month-low/"
     },
     {
-      "title": "Michelin Guide awards new PH star",
+      "title": "Gasoline prices set to rise next week",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618737/michelin-guide-awards-new-ph-star"
+      "url": "https://business.inquirer.net/618809/gasoline-prices-set-to-rise-next-week"
     },
     {
       "title": "Business groups call for removal of unjustified budget insertions",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/10/29/790301/business-groups-call-for-removal-of-unjustified-budget-insertions/"
     },
     {
-      "title": "Aboitiz Power 9-mo profit rises to P26.2B",
+      "title": "Power outages loom anew across Visayas",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618727/aboitiz-power-9-mo-profit-rises-to-p26-2b"
+      "url": "https://business.inquirer.net/618805/power-outages-loom-anew-across-visayas"
     },
     {
       "title": "DoF presses Congress to approve ProGRESS bill",
