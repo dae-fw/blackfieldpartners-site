@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-30",
-  "updatedTime": "10:25 AM",
+  "updatedTime": "3:56 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.62",
-      "note": "Market rate, Oct 30, 10:25 AM.",
+      "value": "₱63.73",
+      "note": "Market rate, Oct 30, 3:31 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,681.99",
-      "note": "Closed Oct 30, down 0.41%.",
+      "value": "5,680.35",
+      "note": "Closed Oct 30, down 0.44%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine banks’ NPL ratio slips to 9-month low",
+      "title": "Philippine trade gap widens in September as exports grow fastest in 5 years",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/29/790302/philippine-banks-npl-ratio-slips-to-9-month-low/"
+      "url": "https://bworldonline.com/top-stories/2026/10/30/790480/philippine-trade-gap-widens-in-september-as-exports-grow-fastest-in-5-years/"
     },
     {
-      "title": "Gasoline prices set to rise next week",
+      "title": "PH pushes wider social security coverage for freelancers",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618809/gasoline-prices-set-to-rise-next-week"
+      "url": "https://business.inquirer.net/618847/ph-pushes-wider-social-security-coverage-for-freelancers"
     },
     {
-      "title": "Business groups call for removal of unjustified budget insertions",
+      "title": "BSP: Inflation likely between 7.1-8.1% in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/29/790301/business-groups-call-for-removal-of-unjustified-budget-insertions/"
+      "url": "https://bworldonline.com/top-stories/2026/10/30/790449/bsp-inflation-likely-between-7-1-8-1-in-october/"
     },
     {
-      "title": "Power outages loom anew across Visayas",
+      "title": "From Stars to Bib Gourmand: How the Michelin Guide Judges Food",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/618805/power-outages-loom-anew-across-visayas"
+      "url": "https://business.inquirer.net/618840/from-stars-to-bib-gourmand-how-the-michelin-guide-judges-food"
     },
     {
-      "title": "DoF presses Congress to approve ProGRESS bill",
+      "title": "Philippine bonds most vulnerable in emerging Asia to Fed hikes",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/29/790300/dof-presses-congress-to-approve-progress-bill/"
+      "url": "https://bworldonline.com/top-stories/2026/10/30/790404/philippine-bonds-most-vulnerable-in-emerging-asia-to-fed-hikes/"
     }
   ],
   "regulation": [
