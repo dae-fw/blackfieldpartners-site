@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-01",
-  "updatedTime": "9:54 AM",
+  "updated": "2026-11-02",
+  "updatedTime": "10:08 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.72",
-      "note": "Market rate, Oct 31, 11:34 AM.",
+      "value": "₱63.68",
+      "note": "Market rate, Nov 2, 8:09 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "China-hawk Philippine defense chief Teodoro open to presidential bid",
+      "title": "Philippine bonds can beat Asia if war risks ebb, says Brandywine",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/10/30/790519/china-hawk-philippine-defense-chief-teodoro-open-to-presidential-bid/"
+      "url": "https://bworldonline.com/bloomberg/2026/11/02/790763/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine/"
     },
     {
-      "title": "SJ HANDICRAFTS: Products’ value goes beyond price tags",
+      "title": "Poll: October inflation seen hitting over 3-yr high of 7.6%",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619153/sj-handicrafts-products-value-goes-beyond-price-tags"
+      "url": "https://business.inquirer.net/619248/poll-october-inflation-seen-hitting-over-3-yr-high-of-7-6"
     },
     {
-      "title": "Philippine trade gap widens in September as exports grow fastest in 5 years",
+      "title": "Philippine firms’ outlook turns less upbeat in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/30/790480/philippine-trade-gap-widens-in-september-as-exports-grow-fastest-in-5-years/"
+      "url": "https://bworldonline.com/top-stories/2026/11/01/790620/philippine-firms-outlook-turns-less-upbeat-in-september/"
     },
     {
-      "title": "Lessons I wish I knew at 40",
+      "title": "PH firms stay gloomy on inflation, peso woes",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619143/lessons-i-wish-i-knew-at-40"
+      "url": "https://business.inquirer.net/619249/ph-firms-stay-gloomy-on-inflation-peso-woes"
     },
     {
-      "title": "BSP: Inflation likely between 7.1-8.1% in October",
+      "title": "NG debt service bill declines in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/10/30/790449/bsp-inflation-likely-between-7-1-8-1-in-october/"
+      "url": "https://bworldonline.com/top-stories/2026/11/01/790613/ng-debt-service-bill-declines-in-september/"
     }
   ],
   "regulation": [
