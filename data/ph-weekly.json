@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02",
-  "updatedTime": "4:42 PM",
+  "updated": "2026-11-03",
+  "updatedTime": "11:51 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.72",
-      "note": "Market rate, Nov 2, 11:30 AM.",
+      "value": "₱63.43",
+      "note": "Market rate, Nov 3, 11:51 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,680.35",
-      "note": "Closed Oct 30, down 0.44%.",
+      "value": "5,690.68",
+      "note": "Closed Nov 3, up 0.18%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine bonds can beat Asia if war risks ebb, says Brandywine",
+      "title": "Philippines factory activity contracts for 2nd straight month in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/11/02/790763/philippine-bonds-can-beat-asia-if-war-risks-ebb-says-brandywine/"
+      "url": "https://bworldonline.com/top-stories/2026/11/03/791000/philippines-factory-activity-contracts-for-2nd-straight-month-in-october/"
     },
     {
-      "title": "Telcos pass NTC’s Undas network checks",
+      "title": "St. Luke’s probes data breach in mobile app",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619294/telcos-pass-ntcs-undas-network-checks"
+      "url": "https://business.inquirer.net/619386/st-lukes-probes-data-breach-in-mobile-app"
     },
     {
-      "title": "Philippine firms’ outlook turns less upbeat in September",
+      "title": "Poll: Philippine inflation likely quickened to 7.6% in Oct.",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/01/790620/philippine-firms-outlook-turns-less-upbeat-in-september/"
+      "url": "https://bworldonline.com/top-stories/2026/11/02/790887/poll-philippine-inflation-likely-quickened-to-7-6-in-oct/"
     },
     {
-      "title": "P85M leisure investments eyed for Clark, Camp John Hay",
+      "title": "Gasoline prices up by P3.50/L",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619296/p85m-leisure-investments-eyed-for-clark-camp-john-hay"
+      "url": "https://business.inquirer.net/619372/gasoline-prices-up-by-p3-50-l"
     },
     {
-      "title": "NG debt service bill declines in September",
+      "title": "Weak Philippine peso seen adding pressure on 2027 nat’l budget",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/01/790613/ng-debt-service-bill-declines-in-september/"
+      "url": "https://bworldonline.com/top-stories/2026/11/02/790885/weak-philippine-peso-seen-adding-pressure-on-2027-natl-budget/"
     }
   ],
   "regulation": [
@@ -85,12 +85,6 @@
     }
   ],
   "dates": [
-    {
-      "date": "Nov 1–2",
-      "title": "All Saints’ Day and All Souls’ Day",
-      "type": "Special non-working days",
-      "until": "2026-11-02"
-    },
     {
       "date": "Nov 23",
       "title": "Senate floor debate on the 2027 budget begins",
