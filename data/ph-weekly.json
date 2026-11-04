@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-04",
-  "updatedTime": "10:55 AM",
+  "updatedTime": "4:25 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.42",
-      "note": "Market rate, Nov 4, 10:54 AM.",
+      "value": "₱63.47",
+      "note": "Market rate, Nov 4, 4:07 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,8 +25,8 @@
     },
     {
       "label": "PSE index",
-      "value": "5,652.33",
-      "note": "Closed Nov 4, up 0.50%.",
+      "value": "5,694.92",
+      "note": "Closed Nov 4, up 1.26%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/03/791189/philippines-manufacturing-pmi-shrinks-in-october/"
     },
     {
-      "title": "PH factory slump deepens on weak sales, El Niño",
+      "title": "Robinsons Land starts work on 29-story Bridgetowne office tower",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619440/ph-factory-slump-deepens-on-weak-sales-el-nino"
+      "url": "https://business.inquirer.net/619506/robinsons-land-starts-work-on-29-story-bridgetowne-office-tower"
     },
     {
       "title": "BSP less likely to keep tightening if output gap turns ‘too negative’",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/03/791188/bsp-less-likely-to-keep-tightening-if-output-gap-turns-too-negative/"
     },
     {
-      "title": "No challengers to P15-B Maynilad, K-Water proposal",
+      "title": "ERC hits 13 gencos with show-cause orders over outages",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619439/no-challengers-to-p15-b-maynilad-k-water-proposal"
+      "url": "https://business.inquirer.net/619504/erc-hits-13-gencos-with-show-cause-orders-over-outages"
     },
     {
       "title": "AMLC vows to tackle illegal casinos posing as small businesses",
