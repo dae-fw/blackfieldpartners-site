@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-03",
-  "updatedTime": "4:54 PM",
+  "updated": "2026-11-04",
+  "updatedTime": "10:55 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.46",
-      "note": "Market rate, Nov 3, 4:37 PM.",
+      "value": "₱63.42",
+      "note": "Market rate, Nov 4, 10:54 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,624.17",
-      "note": "Closed Nov 3, down 0.99%.",
+      "value": "5,652.33",
+      "note": "Closed Nov 4, up 0.50%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippines factory activity contracts for 2nd straight month in October",
+      "title": "Philippines’ manufacturing PMI shrinks in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/03/791000/philippines-factory-activity-contracts-for-2nd-straight-month-in-october/"
+      "url": "https://bworldonline.com/top-stories/2026/11/03/791189/philippines-manufacturing-pmi-shrinks-in-october/"
     },
     {
-      "title": "St. Luke’s probes data breach in mobile app",
+      "title": "PH factory slump deepens on weak sales, El Niño",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619386/st-lukes-probes-data-breach-in-mobile-app"
+      "url": "https://business.inquirer.net/619440/ph-factory-slump-deepens-on-weak-sales-el-nino"
     },
     {
-      "title": "Poll: Philippine inflation likely quickened to 7.6% in Oct.",
+      "title": "BSP less likely to keep tightening if output gap turns ‘too negative’",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/02/790887/poll-philippine-inflation-likely-quickened-to-7-6-in-oct/"
+      "url": "https://bworldonline.com/top-stories/2026/11/03/791188/bsp-less-likely-to-keep-tightening-if-output-gap-turns-too-negative/"
     },
     {
-      "title": "Gasoline prices up by P3.50/L",
+      "title": "No challengers to P15-B Maynilad, K-Water proposal",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619372/gasoline-prices-up-by-p3-50-l"
+      "url": "https://business.inquirer.net/619439/no-challengers-to-p15-b-maynilad-k-water-proposal"
     },
     {
-      "title": "Weak Philippine peso seen adding pressure on 2027 nat’l budget",
+      "title": "AMLC vows to tackle illegal casinos posing as small businesses",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/02/790885/weak-philippine-peso-seen-adding-pressure-on-2027-natl-budget/"
+      "url": "https://bworldonline.com/top-stories/2026/11/03/791187/amlc-vows-to-tackle-illegal-casinos-posing-as-small-businesses/"
     }
   ],
   "regulation": [
