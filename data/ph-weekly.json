@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-04",
-  "updatedTime": "4:25 PM",
+  "updated": "2026-11-05",
+  "updatedTime": "11:14 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.47",
-      "note": "Market rate, Nov 4, 4:07 PM.",
+      "value": "₱63.09",
+      "note": "Market rate, Nov 5, 11:13 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,694.92",
-      "note": "Closed Nov 4, up 1.26%.",
+      "value": "5,791.84",
+      "note": "Closed Nov 5, up 1.70%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippines’ manufacturing PMI shrinks in October",
+      "title": "Philippine inflation hits fresh peak of 7.8% in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/03/791189/philippines-manufacturing-pmi-shrinks-in-october/"
+      "url": "https://bworldonline.com/top-stories/2026/11/05/791633/philippine-inflation-hits-fresh-peak-of-7-8-in-october/"
     },
     {
-      "title": "Robinsons Land starts work on 29-story Bridgetowne office tower",
+      "title": "Water industry veteran Alikpala to lead Maynilad",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619506/robinsons-land-starts-work-on-29-story-bridgetowne-office-tower"
+      "url": "https://business.inquirer.net/619679/water-industry-veteran-alikpala-to-lead-maynilad"
     },
     {
-      "title": "BSP less likely to keep tightening if output gap turns ‘too negative’",
+      "title": "Inflation could peak in November",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/03/791188/bsp-less-likely-to-keep-tightening-if-output-gap-turns-too-negative/"
+      "url": "https://bworldonline.com/top-stories/2026/11/04/791501/inflation-could-peak-in-november/"
     },
     {
-      "title": "ERC hits 13 gencos with show-cause orders over outages",
+      "title": "The Medical City marks 59 years with PH’s #1 rankings in cardiology, oncology, and global smart hospital recognition",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619504/erc-hits-13-gencos-with-show-cause-orders-over-outages"
+      "url": "https://business.inquirer.net/619536/the-medical-city-marks-59-years-with-phs-1-rankings-in-cardiology-oncology-and-global-smart-hospital-recognition"
     },
     {
-      "title": "AMLC vows to tackle illegal casinos posing as small businesses",
+      "title": "Philippine GDP growth to slow to 3% in 2026: UA&P",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/03/791187/amlc-vows-to-tackle-illegal-casinos-posing-as-small-businesses/"
+      "url": "https://bworldonline.com/top-stories/2026/11/04/791502/philippine-gdp-growth-to-slow-to-3-in-2026-uap/"
     }
   ],
   "regulation": [
