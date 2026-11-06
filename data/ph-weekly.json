@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-05",
-  "updatedTime": "4:50 PM",
+  "updated": "2026-11-06",
+  "updatedTime": "11:14 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.97",
-      "note": "Market rate, Nov 5, 4:28 PM.",
+      "value": "₱63.00",
+      "note": "Market rate, Nov 6, 11:14 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,778.14",
-      "note": "Closed Nov 5, up 1.46%.",
+      "value": "5,761.38",
+      "note": "Closed Nov 6, down 0.29%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine inflation hits fresh peak of 7.8% in October",
+      "title": "Philippine unemployment rises as labor force expands",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/05/791633/philippine-inflation-hits-fresh-peak-of-7-8-in-october/"
+      "url": "https://bworldonline.com/top-stories/2026/11/06/791979/philippine-unemployment-rises-as-labor-force-expands/"
     },
     {
-      "title": "DM Wenceslao 9-mo profit falls to P1.24B",
+      "title": "Q3 farm output drops 5% to P389.42B: PSA",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619696/dm-wenceslao-9-mo-profit-falls-to-p1-24b"
+      "url": "https://business.inquirer.net/619830/q3-farm-output-drops-5-to-p389-42b-psa"
     },
     {
-      "title": "Inflation could peak in November",
+      "title": "Inflation surges to near 4-year high in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/04/791501/inflation-could-peak-in-november/"
+      "url": "https://bworldonline.com/top-stories/2026/11/05/791815/inflation-surges-to-near-4-year-high-in-october/"
     },
     {
-      "title": "Breast Screening at these TMC Clinic is now covered by PhilHealth YAKAP",
+      "title": "PH jobless rate inches up to 5.4% in September",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619692/breast-screening-at-these-tmc-clinic-is-now-covered-by-philhealth-yakap"
+      "url": "https://business.inquirer.net/619828/ph-jobless-rate-inches-up-to-5-4-in-september"
     },
     {
-      "title": "Philippine GDP growth to slow to 3% in 2026: UA&P",
+      "title": "Poll: Q3 GDP growth likely slowed to 2.7%",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/04/791502/philippine-gdp-growth-to-slow-to-3-in-2026-uap/"
+      "url": "https://bworldonline.com/top-stories/2026/11/05/791814/poll-q3-gdp-growth-likely-slowed-to-2-7/"
     }
   ],
   "regulation": [
