@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-06",
-  "updatedTime": "11:14 AM",
+  "updatedTime": "4:49 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.00",
-      "note": "Market rate, Nov 6, 11:14 AM.",
+      "value": "₱62.98",
+      "note": "Market rate, Nov 6, 4:20 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,761.38",
-      "note": "Closed Nov 6, down 0.29%.",
+      "value": "5,761.95",
+      "note": "Closed Nov 6, down 0.28%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine unemployment rises as labor force expands",
+      "title": "Farm output down 5% in Q3 as El Niño sets in",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/06/791979/philippine-unemployment-rises-as-labor-force-expands/"
+      "url": "https://bworldonline.com/top-stories/2026/11/06/792032/farm-output-down-5-in-q3-as-el-nino-sets-in/"
     },
     {
-      "title": "Q3 farm output drops 5% to P389.42B: PSA",
+      "title": "SSS death benefits climb to P63.7B in Jan-Sept",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619830/q3-farm-output-drops-5-to-p389-42b-psa"
+      "url": "https://business.inquirer.net/619847/sss-death-benefits-climb-to-p63-7b-in-jan-sept"
     },
     {
-      "title": "Inflation surges to near 4-year high in October",
+      "title": "Philippines faces stagflation threat, says S&P",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/05/791815/inflation-surges-to-near-4-year-high-in-october/"
+      "url": "https://bworldonline.com/top-stories/2026/11/06/792019/philippines-faces-stagflation-threat-says-sp/"
     },
     {
-      "title": "PH jobless rate inches up to 5.4% in September",
+      "title": "Peppermint Bizmoto, VITRO Inc. ink MPLS deal to boost payment infra",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619828/ph-jobless-rate-inches-up-to-5-4-in-september"
+      "url": "https://business.inquirer.net/619845/peppermint-bizmoto-vitro-inc-ink-mpls-deal-to-boost-payment-infra"
     },
     {
-      "title": "Poll: Q3 GDP growth likely slowed to 2.7%",
+      "title": "Philippine manufacturing output picks up in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/05/791814/poll-q3-gdp-growth-likely-slowed-to-2-7/"
+      "url": "https://bworldonline.com/top-stories/2026/11/06/792017/philippine-manufacturing-output-picks-up-in-september/"
     }
   ],
   "regulation": [
