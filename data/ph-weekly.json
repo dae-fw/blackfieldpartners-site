@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06",
-  "updatedTime": "4:49 PM",
+  "updated": "2026-11-07",
+  "updatedTime": "10:33 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.98",
-      "note": "Market rate, Nov 6, 4:20 PM.",
+      "value": "₱63.00",
+      "note": "Market rate, Nov 7, 5:00 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/06/792032/farm-output-down-5-in-q3-as-el-nino-sets-in/"
     },
     {
-      "title": "SSS death benefits climb to P63.7B in Jan-Sept",
+      "title": "The new rules of going out",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619847/sss-death-benefits-climb-to-p63-7b-in-jan-sept"
+      "url": "https://business.inquirer.net/619986/the-new-rules-of-going-out"
     },
     {
       "title": "Philippines faces stagflation threat, says S&P",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/06/792019/philippines-faces-stagflation-threat-says-sp/"
     },
     {
-      "title": "Peppermint Bizmoto, VITRO Inc. ink MPLS deal to boost payment infra",
+      "title": "When housing supply doesn’t solve the housing problem",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619845/peppermint-bizmoto-vitro-inc-ink-mpls-deal-to-boost-payment-infra"
+      "url": "https://business.inquirer.net/619983/when-housing-supply-doesnt-solve-the-housing-problem"
     },
     {
       "title": "Philippine manufacturing output picks up in September",
