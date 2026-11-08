@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-07",
-  "updatedTime": "10:33 AM",
+  "updated": "2026-11-08",
+  "updatedTime": "10:04 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.00",
-      "note": "Market rate, Nov 7, 5:00 AM.",
+      "value": "₱63.03",
+      "note": "Market rate, Nov 7, 11:30 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/06/792032/farm-output-down-5-in-q3-as-el-nino-sets-in/"
     },
     {
-      "title": "The new rules of going out",
+      "title": "P60 daily wage and tagging panties: Rise of Robinsons Retail",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619986/the-new-rules-of-going-out"
+      "url": "https://business.inquirer.net/620050/p60-daily-wage-and-tagging-panties-rise-of-robinsons-retail"
     },
     {
       "title": "Philippines faces stagflation threat, says S&P",
@@ -48,9 +48,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/06/792019/philippines-faces-stagflation-threat-says-sp/"
     },
     {
-      "title": "When housing supply doesn’t solve the housing problem",
+      "title": "Ayala Land gears up for stronger 2027 after ‘demanding’ year",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/619983/when-housing-supply-doesnt-solve-the-housing-problem"
+      "url": "https://business.inquirer.net/620045/ayala-land-gears-up-for-stronger-2027-after-demanding-year"
     },
     {
       "title": "Philippine manufacturing output picks up in September",
