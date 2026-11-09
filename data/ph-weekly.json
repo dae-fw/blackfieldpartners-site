@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08",
-  "updatedTime": "10:04 AM",
+  "updated": "2026-11-09",
+  "updatedTime": "10:24 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.03",
-      "note": "Market rate, Nov 7, 11:30 AM.",
+      "value": "₱63.17",
+      "note": "Market rate, Nov 9, 10:23 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,761.95",
-      "note": "Closed Nov 6, down 0.28%.",
+      "value": "5,730.92",
+      "note": "Closed Nov 9, down 0.54%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Farm output down 5% in Q3 as El Niño sets in",
+      "title": "Philippine dollar reserves fall to near 4-year low",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/06/792032/farm-output-down-5-in-q3-as-el-nino-sets-in/"
+      "url": "https://bworldonline.com/top-stories/2026/11/08/792172/philippine-dollar-reserves-fall-to-near-4-year-low/"
     },
     {
-      "title": "P60 daily wage and tagging panties: Rise of Robinsons Retail",
+      "title": "PH firms brace for tougher times after Christmas season",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620050/p60-daily-wage-and-tagging-panties-rise-of-robinsons-retail"
+      "url": "https://business.inquirer.net/620084/ph-firms-brace-for-tougher-times-after-christmas-season"
     },
     {
-      "title": "Philippines faces stagflation threat, says S&P",
+      "title": "BusinessWorld wins Business News Source of the Year award",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/06/792019/philippines-faces-stagflation-threat-says-sp/"
+      "url": "https://bworldonline.com/top-stories/2026/11/08/792173/businessworld-wins-business-news-source-of-the-year-award/"
     },
     {
-      "title": "Ayala Land gears up for stronger 2027 after ‘demanding’ year",
+      "title": "DOT seeks return of turboprops to Naia",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620045/ayala-land-gears-up-for-stronger-2027-after-demanding-year"
+      "url": "https://business.inquirer.net/620080/dot-seeks-return-of-turboprops-to-naia"
     },
     {
-      "title": "Philippine manufacturing output picks up in September",
+      "title": "Holiday spending seen lifting Q4 GDP growth",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/06/792017/philippine-manufacturing-output-picks-up-in-september/"
+      "url": "https://bworldonline.com/top-stories/2026/11/08/792170/holiday-spending-seen-lifting-q4-gdp-growth/"
     }
   ],
   "regulation": [
