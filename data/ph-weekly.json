@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-09",
-  "updatedTime": "10:24 AM",
+  "updatedTime": "4:55 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.17",
-      "note": "Market rate, Nov 9, 10:23 AM.",
+      "value": "₱63.30",
+      "note": "Market rate, Nov 9, 4:30 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,730.92",
-      "note": "Closed Nov 9, down 0.54%.",
+      "value": "5,677.92",
+      "note": "Closed Nov 9, down 1.46%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Philippine GDP grows 2.1% in Q3, weakest since pandemic",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/09/792325/philippine-gdp-grows-2-1-in-q3-weakest-since-pandemic/"
+    },
+    {
+      "title": "Nearly P17/liter gasoline price cut set this week",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/620118/nearly-p17-liter-gasoline-price-cut-set-this-week"
+    },
+    {
       "title": "Philippine dollar reserves fall to near 4-year low",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/08/792172/philippine-dollar-reserves-fall-to-near-4-year-low/"
     },
     {
-      "title": "PH firms brace for tougher times after Christmas season",
+      "title": "Philippine economic growth slips to 2.1% in Q3",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620084/ph-firms-brace-for-tougher-times-after-christmas-season"
+      "url": "https://business.inquirer.net/620111/philippine-economy-slips-to-2-1-in-q3"
     },
     {
       "title": "BusinessWorld wins Business News Source of the Year award",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/08/792173/businessworld-wins-business-news-source-of-the-year-award/"
-    },
-    {
-      "title": "DOT seeks return of turboprops to Naia",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620080/dot-seeks-return-of-turboprops-to-naia"
-    },
-    {
-      "title": "Holiday spending seen lifting Q4 GDP growth",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/08/792170/holiday-spending-seen-lifting-q4-gdp-growth/"
     }
   ],
   "regulation": [
