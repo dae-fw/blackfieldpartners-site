@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-09",
-  "updatedTime": "4:55 PM",
+  "updated": "2026-11-10",
+  "updatedTime": "12:29 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.30",
-      "note": "Market rate, Nov 9, 4:30 PM.",
+      "value": "₱63.04",
+      "note": "Market rate, Nov 10, 12:29 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,677.92",
-      "note": "Closed Nov 9, down 1.46%.",
+      "value": "5,645.51",
+      "note": "Closed Nov 10, down 0.57%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine GDP grows 2.1% in Q3, weakest since pandemic",
+      "title": "Faltering Philippine growth spurs calls for rate hold, state aid",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/09/792325/philippine-gdp-grows-2-1-in-q3-weakest-since-pandemic/"
+      "url": "https://bworldonline.com/bloomberg/2026/11/10/792673/faltering-philippine-growth-spurs-calls-for-rate-hold-state-aid/"
     },
     {
-      "title": "Nearly P17/liter gasoline price cut set this week",
+      "title": "BOC employee faces raps over unfiled SALN",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620118/nearly-p17-liter-gasoline-price-cut-set-this-week"
+      "url": "https://business.inquirer.net/620217/boc-employee-faces-raps-over-unfiled-saln"
     },
     {
-      "title": "Philippine dollar reserves fall to near 4-year low",
+      "title": "Philippine economic slowdown deepens in Q3",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/08/792172/philippine-dollar-reserves-fall-to-near-4-year-low/"
+      "url": "https://bworldonline.com/top-stories/2026/11/09/792510/philippine-economic-slowdown-deepens-in-q3/"
     },
     {
-      "title": "Philippine economic growth slips to 2.1% in Q3",
+      "title": "Boon for motorists: P16.80/L price rollback for gasoline",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620111/philippine-economy-slips-to-2-1-in-q3"
+      "url": "https://business.inquirer.net/620215/boon-for-motorists-p16-80-l-price-rollback-for-gasoline"
     },
     {
-      "title": "BusinessWorld wins Business News Source of the Year award",
+      "title": "Debt-to-GDP ratio hits 66.9%, highest since 2004",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/08/792173/businessworld-wins-business-news-source-of-the-year-award/"
+      "url": "https://bworldonline.com/top-stories/2026/11/09/792513/debt-to-gdp-ratio-hits-66-9-highest-since-2004/"
     }
   ],
   "regulation": [
