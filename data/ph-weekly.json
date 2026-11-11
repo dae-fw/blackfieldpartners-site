@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-10",
-  "updatedTime": "5:02 PM",
+  "updated": "2026-11-11",
+  "updatedTime": "10:33 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱62.87",
-      "note": "Market rate, Nov 10, 5:02 PM.",
+      "value": "₱63.14",
+      "note": "Market rate, Nov 11, 10:32 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,716.15",
-      "note": "Closed Nov 10, up 0.67%.",
+      "value": "5,706.74",
+      "note": "Closed Nov 11, down 0.16%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Faltering Philippine growth spurs calls for rate hold, state aid",
+      "title": "BSP faces pressure to pause hikes as growth slumps",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/11/10/792673/faltering-philippine-growth-spurs-calls-for-rate-hold-state-aid/"
+      "url": "https://bworldonline.com/top-stories/2026/11/10/792870/bsp-faces-pressure-to-pause-hikes-as-growth-slumps/"
     },
     {
-      "title": "BOC employee faces raps over unfiled SALN",
+      "title": "BSP seen extending rate hikes to curb inflation",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620217/boc-employee-faces-raps-over-unfiled-saln"
+      "url": "https://business.inquirer.net/620301/bsp-seen-extending-rate-hikes-to-curb-inflation"
     },
     {
-      "title": "Philippine economic slowdown deepens in Q3",
+      "title": "Philippine economic growth may remain sluggish through 2027",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/09/792510/philippine-economic-slowdown-deepens-in-q3/"
+      "url": "https://bworldonline.com/top-stories/2026/11/10/792869/philippine-economic-growth-may-remain-sluggish-through-2027/"
     },
     {
-      "title": "Boon for motorists: P16.80/L price rollback for gasoline",
+      "title": "Uniform Asean e-commerce rules vs illicit trade pushed",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620215/boon-for-motorists-p16-80-l-price-rollback-for-gasoline"
+      "url": "https://business.inquirer.net/620293/uniform-asean-e-commerce-rules-vs-illicit-trade-pushed"
     },
     {
-      "title": "Debt-to-GDP ratio hits 66.9%, highest since 2004",
+      "title": "BMI sees peso ending 2026 at P63.50:$1",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/09/792513/debt-to-gdp-ratio-hits-66-9-highest-since-2004/"
+      "url": "https://bworldonline.com/top-stories/2026/11/10/792868/bmi-sees-peso-ending-2026-at-p63-501/"
     }
   ],
   "regulation": [
