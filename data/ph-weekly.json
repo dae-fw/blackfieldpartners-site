@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12",
-  "updatedTime": "5:04 PM",
+  "updated": "2026-11-13",
+  "updatedTime": "11:10 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.67",
-      "note": "Market rate, Nov 12, 4:37 PM.",
+      "value": "₱63.70",
+      "note": "Market rate, Nov 13, 11:09 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,660.55",
-      "note": "Closed Nov 12, down 0.57%.",
+      "value": "5,668.13",
+      "note": "Closed Nov 13, up 0.13%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "FDI net inflows hit 7-month high in August",
+      "title": "Foreign investment pledges surge",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/11/793008/fdi-net-inflows-hit-7-month-high-in-august/"
+      "url": "https://bworldonline.com/top-stories/2026/11/12/793590/foreign-investment-pledges-surge/"
     },
     {
-      "title": "PH firms trail global AI curve by 2 years: study",
+      "title": "Coming up: Leadership shuffle at BIR, BCDA, BOC, Peza",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620541/ph-firms-trail-global-ai-curve-by-2-years-study"
+      "url": "https://business.inquirer.net/620694/coming-up-leadership-shuffle-at-bir-bcda-boc-peza"
     },
     {
-      "title": "BMI cuts Philippine growth forecasts after Q3 slowdown",
+      "title": "BSP confronts ‘difficult’ balancing act amid heated inflation, tepid growth",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/11/793174/bmi-cuts-philippine-growth-forecasts-after-q3-slowdown/"
+      "url": "https://bworldonline.com/top-stories/2026/11/12/793589/bsp-confronts-difficult-balancing-act-amid-heated-inflation-tepid-growth/"
     },
     {
-      "title": "Alabang Town Center boosts Rockwell Land’s 9-month profit",
+      "title": "Slow GDP growth tests BSP resolve on inflation",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620539/alabang-town-center-boosts-rockwell-lands-9-month-profit"
+      "url": "https://business.inquirer.net/620643/slow-gdp-growth-tests-bsp-resolve-on-inflation"
     },
     {
-      "title": "Auto industry balks at proposed 75% excise tax on luxury cars",
+      "title": "Digital economy, energy security expected to top ASEAN Summit agenda",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/11/793173/auto-industry-balks-at-proposed-75-excise-tax-on-luxury-cars/"
+      "url": "https://bworldonline.com/top-stories/2026/11/12/793588/digital-economy-energy-security-expected-to-top-asean-summit-agenda/"
     }
   ],
   "regulation": [
