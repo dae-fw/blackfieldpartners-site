@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-13",
-  "updatedTime": "11:10 AM",
+  "updatedTime": "4:58 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
       "value": "₱63.70",
-      "note": "Market rate, Nov 13, 11:09 AM.",
+      "note": "Market rate, Nov 13, 4:54 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,668.13",
-      "note": "Closed Nov 13, up 0.13%.",
+      "value": "5,593.49",
+      "note": "Closed Nov 13, down 1.18%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Philippines eyes at least $200 million from onshore retail dollar bonds",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/13/793862/philippines-eyes-at-least-200-million-from-onshore-retail-dollar-bonds/"
+    },
+    {
+      "title": "PhilWeb Q3 profit climbs 36% to P64.2M",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/620765/philweb-q3-profit-climbs-36-to-p64-2m"
+    },
+    {
+      "title": "Philippine economy may recover once inflation risks ease",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/13/793826/philippine-economy-may-recover-once-inflation-risks-ease/"
+    },
+    {
+      "title": "Cosco Jan-Sept profit climbs 11.8% to P11.96B",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/620763/cosco-jan-sept-profit-climbs-11-8-to-p11-96b"
+    },
+    {
       "title": "Foreign investment pledges surge",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/12/793590/foreign-investment-pledges-surge/"
-    },
-    {
-      "title": "Coming up: Leadership shuffle at BIR, BCDA, BOC, Peza",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620694/coming-up-leadership-shuffle-at-bir-bcda-boc-peza"
-    },
-    {
-      "title": "BSP confronts ‘difficult’ balancing act amid heated inflation, tepid growth",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/12/793589/bsp-confronts-difficult-balancing-act-amid-heated-inflation-tepid-growth/"
-    },
-    {
-      "title": "Slow GDP growth tests BSP resolve on inflation",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/620643/slow-gdp-growth-tests-bsp-resolve-on-inflation"
-    },
-    {
-      "title": "Digital economy, energy security expected to top ASEAN Summit agenda",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/12/793588/digital-economy-energy-security-expected-to-top-asean-summit-agenda/"
     }
   ],
   "regulation": [
