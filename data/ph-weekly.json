@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-14",
-  "updatedTime": "10:55 AM",
+  "updated": "2026-11-15",
+  "updatedTime": "10:25 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.75",
-      "note": "Market rate, Nov 14, 6:33 AM.",
+      "value": "₱63.70",
+      "note": "Market rate, Nov 14, 11:30 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -38,9 +38,9 @@
       "url": "https://bworldonline.com/top-stories/2026/11/13/793862/philippines-eyes-at-least-200-million-from-onshore-retail-dollar-bonds/"
     },
     {
-      "title": "Recto urges businesses to tap Asean deals for growth",
+      "title": "Asean businesses urged to help MSMEs adopt AI",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621036/recto-urges-businesses-to-tap-asean-deals-for-growth"
+      "url": "https://business.inquirer.net/621138/asean-businesses-urged-to-help-msmes-adopt-ai"
     },
     {
       "title": "Philippine economy may recover once inflation risks ease",
@@ -48,14 +48,14 @@
       "url": "https://bworldonline.com/top-stories/2026/11/13/793826/philippine-economy-may-recover-once-inflation-risks-ease/"
     },
     {
-      "title": "Asean test for big business: Help uplift MSMEs, too",
+      "title": "Christmas hits differently when it’s proudly Filipino",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621033/asean-test-for-big-business-help-uplift-msmes-too"
+      "url": "https://business.inquirer.net/621077/christmas-hits-differently-when-its-proudly-filipino"
     },
     {
-      "title": "Foreign investment pledges surge",
+      "title": "PHL lags two years behind global AI maturity",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/12/793590/foreign-investment-pledges-surge/"
+      "url": "https://bworldonline.com/technology/2026/11/13/793893/phl-lags-two-years-behind-global-ai-maturity/"
     }
   ],
   "regulation": [
