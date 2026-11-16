@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-16",
-  "updatedTime": "10:34 AM",
+  "updatedTime": "4:52 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.75",
-      "note": "Market rate, Nov 16, 10:34 AM.",
+      "value": "₱63.93",
+      "note": "Market rate, Nov 16, 4:27 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,519.46",
-      "note": "Closed Nov 16, down 1.32%.",
+      "value": "5,481.88",
+      "note": "Closed Nov 16, down 2.00%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "OFW remittances post fastest growth in 8 months",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/16/794195/ofw-remittances-post-fastest-growth-in-8-months/"
+    },
+    {
+      "title": "SMPC: DOE ‘embarrassing’ PH on world stage",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/621310/smpc-doe-embarrassing-ph-on-world-stage"
+    },
+    {
       "title": "Philippines’ main coal mine in limbo puts nation’s energy supply at risk",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/bloomberg/2026/11/16/794193/philippines-main-coal-mine-in-limbo-puts-nations-energy-supply-at-risk/"
     },
     {
-      "title": "DTI chief mum on possible trade deals during Trump’s PH visit",
+      "title": "Jollibee heads to Australia: What its debut means for diners",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621274/dti-chief-mum-on-possible-trade-deals-during-trumps-ph-visit"
+      "url": "https://business.inquirer.net/621313/jollibee-heads-to-australia-what-its-debut-means-for-diners"
     },
     {
       "title": "BSP warned against premature pause amid ‘slowflation’",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/15/794130/bsp-warned-against-premature-pause-amid-slowflation/"
-    },
-    {
-      "title": "Retailers banking on traditional holiday spending to boost economy",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621269/retailers-banking-on-traditional-holiday-spending-to-boost-economy"
-    },
-    {
-      "title": "Brazil seeks bigger role in Philippine food, energy supply",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/15/794129/brazil-seeks-bigger-role-in-philippine-food-energy-supply/"
     }
   ],
   "regulation": [
