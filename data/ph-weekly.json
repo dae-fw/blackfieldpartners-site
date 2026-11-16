@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-15",
-  "updatedTime": "10:25 AM",
+  "updated": "2026-11-16",
+  "updatedTime": "10:34 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.70",
-      "note": "Market rate, Nov 14, 11:30 AM.",
+      "value": "₱63.75",
+      "note": "Market rate, Nov 16, 10:34 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,593.49",
-      "note": "Closed Nov 13, down 1.18%.",
+      "value": "5,519.46",
+      "note": "Closed Nov 16, down 1.32%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippines eyes at least $200 million from onshore retail dollar bonds",
+      "title": "Philippines’ main coal mine in limbo puts nation’s energy supply at risk",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/13/793862/philippines-eyes-at-least-200-million-from-onshore-retail-dollar-bonds/"
+      "url": "https://bworldonline.com/bloomberg/2026/11/16/794193/philippines-main-coal-mine-in-limbo-puts-nations-energy-supply-at-risk/"
     },
     {
-      "title": "Asean businesses urged to help MSMEs adopt AI",
+      "title": "DTI chief mum on possible trade deals during Trump’s PH visit",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621138/asean-businesses-urged-to-help-msmes-adopt-ai"
+      "url": "https://business.inquirer.net/621274/dti-chief-mum-on-possible-trade-deals-during-trumps-ph-visit"
     },
     {
-      "title": "Philippine economy may recover once inflation risks ease",
+      "title": "BSP warned against premature pause amid ‘slowflation’",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/13/793826/philippine-economy-may-recover-once-inflation-risks-ease/"
+      "url": "https://bworldonline.com/top-stories/2026/11/15/794130/bsp-warned-against-premature-pause-amid-slowflation/"
     },
     {
-      "title": "Christmas hits differently when it’s proudly Filipino",
+      "title": "Retailers banking on traditional holiday spending to boost economy",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621077/christmas-hits-differently-when-its-proudly-filipino"
+      "url": "https://business.inquirer.net/621269/retailers-banking-on-traditional-holiday-spending-to-boost-economy"
     },
     {
-      "title": "PHL lags two years behind global AI maturity",
+      "title": "Brazil seeks bigger role in Philippine food, energy supply",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/technology/2026/11/13/793893/phl-lags-two-years-behind-global-ai-maturity/"
+      "url": "https://bworldonline.com/top-stories/2026/11/15/794129/brazil-seeks-bigger-role-in-philippine-food-energy-supply/"
     }
   ],
   "regulation": [
