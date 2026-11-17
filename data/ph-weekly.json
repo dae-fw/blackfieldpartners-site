@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-17",
-  "updatedTime": "12:57 PM",
+  "updatedTime": "5:58 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.68",
-      "note": "Market rate, Nov 17, 12:57 PM.",
+      "value": "₱63.65",
+      "note": "Market rate, Nov 17, 5:51 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,13 +25,23 @@
     },
     {
       "label": "PSE index",
-      "value": "5,500.90",
+      "value": "5,500.88",
       "note": "Closed Nov 17, up 0.35%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
+    {
+      "title": "Japan proposes Asia oil security task force at ASEAN summit",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/world/2026/11/17/794450/japan-proposes-asia-oil-security-task-force-at-asean-summit/"
+    },
+    {
+      "title": "BSP profit soars as costs drop, forex gains rise",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/621486/bsp-profit-soars-as-costs-drop-forex-gains-rise"
+    },
     {
       "title": "OFW remittances post fastest growth in 8 months",
       "source": "BusinessWorld",
@@ -46,16 +56,6 @@
       "title": "Tariffs to top agenda at Marcos-Trump meeting",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/16/794315/tariffs-to-top-agenda-at-marcos-trump-meeting/"
-    },
-    {
-      "title": "US banking app users report outages from software bugs",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621459/us-banking-app-users-report-outages-from-software-bugs"
-    },
-    {
-      "title": "DEPDev ‘very concerned’ over flagship project delays",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/16/794314/depdev-very-concerned-over-flagship-project-delays/"
     }
   ],
   "regulation": [
