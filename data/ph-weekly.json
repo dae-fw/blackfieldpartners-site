@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-17",
-  "updatedTime": "5:58 PM",
+  "updated": "2026-11-18",
+  "updatedTime": "12:02 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.65",
-      "note": "Market rate, Nov 17, 5:51 PM.",
+      "value": "₱63.54",
+      "note": "Market rate, Nov 18, 12:01 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,500.88",
-      "note": "Closed Nov 17, up 0.35%.",
+      "value": "5,515.93",
+      "note": "Closed Nov 18, up 0.27%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Japan proposes Asia oil security task force at ASEAN summit",
+      "title": "Philippines, Japan forge pact on oil reserve cooperation",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/world/2026/11/17/794450/japan-proposes-asia-oil-security-task-force-at-asean-summit/"
+      "url": "https://bworldonline.com/top-stories/2026/11/17/794577/philippines-japan-forge-pact-on-oil-reserve-cooperation/"
     },
     {
-      "title": "BSP profit soars as costs drop, forex gains rise",
+      "title": "TransCo steps up grid safeguards ahead of super El Niño",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621486/bsp-profit-soars-as-costs-drop-forex-gains-rise"
+      "url": "https://business.inquirer.net/621583/transco-steps-up-grid-safeguards-ahead-of-super-el-nino"
     },
     {
-      "title": "OFW remittances post fastest growth in 8 months",
+      "title": "Filipino consumers may remain cautious through 2027: BMI",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/16/794195/ofw-remittances-post-fastest-growth-in-8-months/"
+      "url": "https://bworldonline.com/top-stories/2026/11/17/794576/filipino-consumers-may-remain-cautious-through-2027-bmi/"
     },
     {
-      "title": "PH, Japan push regional plan vs oil supply shocks",
+      "title": "Sluggish PH consumer spending seen to continue in 2027",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621469/ph-japan-push-regional-plan-vs-oil-supply-shocks"
+      "url": "https://business.inquirer.net/621504/sluggish-ph-consumer-spending-seen-to-continue-in-2027"
     },
     {
-      "title": "Tariffs to top agenda at Marcos-Trump meeting",
+      "title": "BSP eyes tighter rules for money service businesses",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/16/794315/tariffs-to-top-agenda-at-marcos-trump-meeting/"
+      "url": "https://bworldonline.com/top-stories/2026/11/17/794575/bsp-eyes-tighter-rules-for-money-service-businesses/"
     }
   ],
   "regulation": [
