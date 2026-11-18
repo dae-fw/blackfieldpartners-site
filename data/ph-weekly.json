@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-18",
-  "updatedTime": "12:02 PM",
+  "updatedTime": "5:35 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.54",
-      "note": "Market rate, Nov 18, 12:01 PM.",
+      "value": "₱63.66",
+      "note": "Market rate, Nov 18, 5:35 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,13 +25,23 @@
     },
     {
       "label": "PSE index",
-      "value": "5,515.93",
-      "note": "Closed Nov 18, up 0.27%.",
+      "value": "5,511.84",
+      "note": "Closed Nov 18, up 0.20%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
+    {
+      "title": "Trump says US has concluded ‘very big trade deal’ with Philippines",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/the-nation/2026/11/18/794700/trump-says-us-has-concluded-very-big-trade-deal-with-philippines/"
+    },
+    {
+      "title": "Trump, Marcos seal ‘biggest’ trade deal in Manila state visit",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/621587/trump-marcos-seal-biggest-trade-deal-in-manila-state-visit"
+    },
     {
       "title": "Philippines, Japan forge pact on oil reserve cooperation",
       "source": "BusinessWorld",
@@ -46,16 +56,6 @@
       "title": "Filipino consumers may remain cautious through 2027: BMI",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/17/794576/filipino-consumers-may-remain-cautious-through-2027-bmi/"
-    },
-    {
-      "title": "Sluggish PH consumer spending seen to continue in 2027",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621504/sluggish-ph-consumer-spending-seen-to-continue-in-2027"
-    },
-    {
-      "title": "BSP eyes tighter rules for money service businesses",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/17/794575/bsp-eyes-tighter-rules-for-money-service-businesses/"
     }
   ],
   "regulation": [
