@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-19",
-  "updatedTime": "11:59 AM",
+  "updatedTime": "5:43 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.66",
-      "note": "Market rate, Nov 19, 11:58 AM.",
+      "value": "₱63.62",
+      "note": "Market rate, Nov 19, 5:43 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,468.17",
-      "note": "Closed Nov 19, down 0.79%.",
+      "value": "5,477.91",
+      "note": "Closed Nov 19, down 0.62%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "US seeks $2-billion defense loan for Philippines, pledges $400 million in military aid",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/19/795012/us-seeks-2-billion-defense-loan-for-philippines-pledges-400-million-in-military-aid/"
+    },
+    {
+      "title": "PSEi slumps to new 6.5-year low",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/621776/psei-slumps-to-new-6-5-year-low"
+    },
+    {
       "title": "Hot money exits Philippines for 2nd straight month",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/18/794838/hot-money-exits-philippines-for-2nd-straight-month/"
     },
     {
-      "title": "Mynt’s next test: Turning profit into cash",
+      "title": "Mendoza vows to speed up BOC reforms on assuming top post",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621694/mynts-next-test-turning-profit-into-cash"
+      "url": "https://business.inquirer.net/621771/mendoza-vows-to-speed-up-boc-reforms-on-assuming-top-post"
     },
     {
       "title": "Surrendered RE contracts won’t derail targets: DoE",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/18/794835/surrendered-re-contracts-wont-derail-targets-doe/"
-    },
-    {
-      "title": "Canada could be the next frontier for Filipino businesses",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621597/canada-could-be-the-next-frontier-for-filipino-businesses"
-    },
-    {
-      "title": "Trump says US forged ‘a very big trade deal’ with Philippines",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/11/18/794821/trump-says-us-forged-a-very-big-trade-deal-with-philippines/"
     }
   ],
   "regulation": [
