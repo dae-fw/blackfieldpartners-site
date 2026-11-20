@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-20",
-  "updatedTime": "11:52 AM",
+  "updatedTime": "5:30 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.81",
-      "note": "Market rate, Nov 20, 11:52 AM.",
+      "value": "₱63.82",
+      "note": "Market rate, Nov 20, 5:30 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,264.03",
-      "note": "Closed Nov 20, down 3.90%.",
+      "value": "5,306.98",
+      "note": "Closed Nov 20, down 3.12%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
+      "title": "Auto sales seen to recover next year: CAMPI",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/20/795560/auto-sales-seen-to-recover-next-year-campi/"
+    },
+    {
+      "title": "Marcos wraps Apec with Chile trade pact, pledges",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/621892/marcos-wraps-apec-with-chile-trade-pact-pledges"
+    },
+    {
       "title": "Philippines raises $453M from retail dollar bonds",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/19/795274/philippines-raises-453m-from-retail-dollar-bonds/"
     },
     {
-      "title": "Biz groups vow to back Ligon’s tax compliance push",
+      "title": "Maharlika to invest up to P900M in Tubig Pilipinas",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621888/biz-groups-vow-to-back-ligons-tax-compliance-push"
+      "url": "https://business.inquirer.net/621923/maharlika-to-invest-up-to-p900m-in-tubig-pilipinas"
     },
     {
       "title": "UBS sees more BSP rate hikes as economy rebounds in 2027",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/19/795273/ubs-sees-more-bsp-rate-hikes-as-economy-rebounds-in-2027/"
-    },
-    {
-      "title": "Red alert hits Visayas power grid anew",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621883/red-alert-hits-visayas-power-grid-anew"
-    },
-    {
-      "title": "Philippines inks Chile FTA, eyes Latin American market",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/19/795272/philippines-inks-chile-fta-eyes-latin-american-market/"
     }
   ],
   "regulation": [
