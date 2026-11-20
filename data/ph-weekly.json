@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-19",
-  "updatedTime": "5:43 PM",
+  "updated": "2026-11-20",
+  "updatedTime": "11:52 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.62",
-      "note": "Market rate, Nov 19, 5:43 PM.",
+      "value": "₱63.81",
+      "note": "Market rate, Nov 20, 11:52 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,477.91",
-      "note": "Closed Nov 19, down 0.62%.",
+      "value": "5,264.03",
+      "note": "Closed Nov 20, down 3.90%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "US seeks $2-billion defense loan for Philippines, pledges $400 million in military aid",
+      "title": "Philippines raises $453M from retail dollar bonds",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/19/795012/us-seeks-2-billion-defense-loan-for-philippines-pledges-400-million-in-military-aid/"
+      "url": "https://bworldonline.com/top-stories/2026/11/19/795274/philippines-raises-453m-from-retail-dollar-bonds/"
     },
     {
-      "title": "PSEi slumps to new 6.5-year low",
+      "title": "Biz groups vow to back Ligon’s tax compliance push",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621776/psei-slumps-to-new-6-5-year-low"
+      "url": "https://business.inquirer.net/621888/biz-groups-vow-to-back-ligons-tax-compliance-push"
     },
     {
-      "title": "Hot money exits Philippines for 2nd straight month",
+      "title": "UBS sees more BSP rate hikes as economy rebounds in 2027",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/18/794838/hot-money-exits-philippines-for-2nd-straight-month/"
+      "url": "https://bworldonline.com/top-stories/2026/11/19/795273/ubs-sees-more-bsp-rate-hikes-as-economy-rebounds-in-2027/"
     },
     {
-      "title": "Mendoza vows to speed up BOC reforms on assuming top post",
+      "title": "Red alert hits Visayas power grid anew",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621771/mendoza-vows-to-speed-up-boc-reforms-on-assuming-top-post"
+      "url": "https://business.inquirer.net/621883/red-alert-hits-visayas-power-grid-anew"
     },
     {
-      "title": "Surrendered RE contracts won’t derail targets: DoE",
+      "title": "Philippines inks Chile FTA, eyes Latin American market",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/18/794835/surrendered-re-contracts-wont-derail-targets-doe/"
+      "url": "https://bworldonline.com/top-stories/2026/11/19/795272/philippines-inks-chile-fta-eyes-latin-american-market/"
     }
   ],
   "regulation": [
