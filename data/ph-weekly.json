@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-20",
-  "updatedTime": "5:30 PM",
+  "updated": "2026-11-21",
+  "updatedTime": "11:47 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.82",
-      "note": "Market rate, Nov 20, 5:30 PM.",
+      "value": "₱63.80",
+      "note": "Market rate, Nov 21, 11:30 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
+      "title": "Marcos secures $87-M factory investment, EV commitments in China",
+      "source": "BusinessWorld",
+      "url": "https://bworldonline.com/top-stories/2026/11/21/795594/marcos-secures-87-m-factory-investment-ev-commitments-in-china/"
+    },
+    {
+      "title": "Three SM Supermalls named among the world’s 100 best; SM Mall of Asia ranked No. 1 in the Philippines",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/622176/three-sm-supermalls-named-among-the-worlds-100-best-sm-mall-of-asia-ranked-no-1-in-the-philippines"
+    },
+    {
       "title": "Auto sales seen to recover next year: CAMPI",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/20/795560/auto-sales-seen-to-recover-next-year-campi/"
     },
     {
-      "title": "Marcos wraps Apec with Chile trade pact, pledges",
+      "title": "10-mo PH dollar deficit breaks past ’26 ceiling",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621892/marcos-wraps-apec-with-chile-trade-pact-pledges"
+      "url": "https://business.inquirer.net/621971/10-mo-ph-dollar-deficit-breaks-past-26-ceiling"
     },
     {
       "title": "Philippines raises $453M from retail dollar bonds",
       "source": "BusinessWorld",
       "url": "https://bworldonline.com/top-stories/2026/11/19/795274/philippines-raises-453m-from-retail-dollar-bonds/"
-    },
-    {
-      "title": "Maharlika to invest up to P900M in Tubig Pilipinas",
-      "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/621923/maharlika-to-invest-up-to-p900m-in-tubig-pilipinas"
-    },
-    {
-      "title": "UBS sees more BSP rate hikes as economy rebounds in 2027",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/19/795273/ubs-sees-more-bsp-rate-hikes-as-economy-rebounds-in-2027/"
     }
   ],
   "regulation": [
