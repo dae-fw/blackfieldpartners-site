@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-22",
-  "updatedTime": "10:50 AM",
+  "updated": "2026-11-23",
+  "updatedTime": "11:32 AM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.80",
-      "note": "Market rate, Nov 21, 11:30 AM.",
+      "value": "₱63.77",
+      "note": "Market rate, Nov 23, 11:31 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,306.98",
-      "note": "Closed Nov 20, down 3.12%.",
+      "value": "5,404.09",
+      "note": "Closed Nov 23, up 1.83%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Marcos secures $41-B investment pledges in China",
+      "title": "Philippine gov’t urged to improve governance",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/21/795594/marcos-secures-41-b-investment-pledges-in-china/"
+      "url": "https://bworldonline.com/top-stories/2026/11/22/795800/philippine-govt-urged-to-improve-governance/"
     },
     {
-      "title": "Metrobank stays steady through the storm",
+      "title": "NGCP puts Visayas grid on red alert again",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622209/metrobank-stays-steady-through-the-storm"
+      "url": "https://business.inquirer.net/622383/ngcp-puts-visayas-grid-on-red-alert-again"
     },
     {
-      "title": "Auto sales seen to recover next year: CAMPI",
+      "title": "Technology offers lifeline as El Niño threat grows in  Philippines",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/20/795560/auto-sales-seen-to-recover-next-year-campi/"
+      "url": "https://bworldonline.com/top-stories/2026/11/22/795799/technology-offers-lifeline-as-el-nino-threat-grows-in-philippines/"
     },
     {
-      "title": "Preserving family wealth is the next-generation test, says Sun Life",
+      "title": "BSP seeks to open PH payment system to more players",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622205/preserving-family-wealth-is-the-next-generation-test-says-sun-life"
+      "url": "https://business.inquirer.net/622280/bsp-seeks-to-open-ph-payment-system-to-more-players"
     },
     {
-      "title": "Philippines hosts Asia-Pacific digestive health congress, expects 2,000 delegates",
+      "title": "Air passenger volume dips as of September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/the-nation/2026/11/20/795591/philippines-hosts-asia-pacific-digestive-health-congress-expects-2000-delegates/"
+      "url": "https://bworldonline.com/top-stories/2026/11/22/795790/air-passenger-volume-dips-as-of-september/"
     }
   ],
   "regulation": [
