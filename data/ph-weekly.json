@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-23",
-  "updatedTime": "6:06 PM",
+  "updated": "2026-11-24",
+  "updatedTime": "2:47 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.81",
-      "note": "Market rate, Nov 23, 6:06 PM.",
+      "value": "₱63.70",
+      "note": "Market rate, Nov 24, 2:46 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,353.07",
-      "note": "Closed Nov 23, up 0.87%.",
+      "value": "5,426.78",
+      "note": "Closed Nov 24, up 1.38%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Philippine gov’t urged to improve governance",
+      "title": "BSP signals less aggressive hikes as growth slows",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/22/795800/philippine-govt-urged-to-improve-governance/"
+      "url": "https://bworldonline.com/top-stories/2026/11/24/796239/bsp-signals-less-aggressive-hikes-as-growth-slows/"
     },
     {
-      "title": "PSEi regains ground after steep sell-off",
+      "title": "Marcos swears in Ignacio as Maharlika Investment Corp. chief",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622491/psei-regains-ground-after-steep-sell-off"
+      "url": "https://business.inquirer.net/622605/marcos-swears-in-ignacio-as-maharlika-investment-corp-chief"
     },
     {
-      "title": "Technology offers lifeline as El Niño threat grows in  Philippines",
+      "title": "S&P slashes Philippine growth outlook until 2028",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/22/795799/technology-offers-lifeline-as-el-nino-threat-grows-in-philippines/"
+      "url": "https://bworldonline.com/top-stories/2026/11/23/796098/sp-slashes-philippine-growth-outlook-until-2028/"
     },
     {
-      "title": "Diesel, gasoline prices cut anew this week",
+      "title": "Diesel, gasoline prices down anew",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622417/diesel-gasoline-prices-cut-anew-this-week"
+      "url": "https://business.inquirer.net/622578/diesel-gasoline-prices-down-anew"
     },
     {
-      "title": "Air passenger volume dips as of September",
+      "title": "PHL urged to rein in debt to contain inflation risks",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/22/795790/air-passenger-volume-dips-as-of-september/"
+      "url": "https://bworldonline.com/top-stories/2026/11/23/796097/phl-urged-to-rein-in-debt-to-contain-inflation-risks/"
     }
   ],
   "regulation": [
@@ -85,12 +85,6 @@
     }
   ],
   "dates": [
-    {
-      "date": "Nov 23",
-      "title": "Senate floor debate on the 2027 budget begins",
-      "type": "Budget (target date)",
-      "until": "2026-11-23"
-    },
     {
       "date": "Nov 27",
       "title": "ERC public consultation on a Reserve Market secondary price cap",
