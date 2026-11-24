@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-24",
-  "updatedTime": "2:47 PM",
+  "updatedTime": "7:53 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.70",
-      "note": "Market rate, Nov 24, 2:46 PM.",
+      "value": "₱63.73",
+      "note": "Market rate, Nov 24, 7:22 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,426.78",
-      "note": "Closed Nov 24, up 1.38%.",
+      "value": "5,456.14",
+      "note": "Closed Nov 24, up 1.93%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "BSP signals less aggressive hikes as growth slows",
+      "title": "Gov’t fully awards T-bond offer",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/24/796239/bsp-signals-less-aggressive-hikes-as-growth-slows/"
+      "url": "https://bworldonline.com/banking-finance/2026/11/24/796331/govt-fully-awards-t-bond-offer-4/"
     },
     {
-      "title": "Marcos swears in Ignacio as Maharlika Investment Corp. chief",
+      "title": "FIRB: Incentivized projects top targets by 40%",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622605/marcos-swears-in-ignacio-as-maharlika-investment-corp-chief"
+      "url": "https://business.inquirer.net/622633/firb-incentivized-projects-top-targets-by-40"
     },
     {
-      "title": "S&P slashes Philippine growth outlook until 2028",
+      "title": "PNB stays cautious on loan expansion amid macroeconomic risks",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/23/796098/sp-slashes-philippine-growth-outlook-until-2028/"
+      "url": "https://bworldonline.com/banking-finance/2026/11/24/796380/pnb-stays-cautious-on-loan-expansion-amid-macroeconomic-risks/"
     },
     {
-      "title": "Diesel, gasoline prices down anew",
+      "title": "PSEi extends rebound on BSP rate signal",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622578/diesel-gasoline-prices-down-anew"
+      "url": "https://business.inquirer.net/622628/psei-extends-rebound-on-bsp-rate-signal"
     },
     {
-      "title": "PHL urged to rein in debt to contain inflation risks",
+      "title": "BSP launches PHL financial literacy strategy",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/23/796097/phl-urged-to-rein-in-debt-to-contain-inflation-risks/"
+      "url": "https://bworldonline.com/banking-finance/2026/11/24/796334/bsp-launches-phl-financial-literacy-strategy/"
     }
   ],
   "regulation": [
