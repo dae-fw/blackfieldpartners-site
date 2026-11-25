@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-25",
-  "updatedTime": "1:15 PM",
+  "updatedTime": "6:45 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.72",
-      "note": "Market rate, Nov 25, 1:04 PM.",
+      "value": "₱63.65",
+      "note": "Market rate, Nov 25, 6:06 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,435.16",
-      "note": "Closed Nov 25, down 0.38%.",
+      "value": "5,493.41",
+      "note": "Closed Nov 25, up 0.68%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "BSP signals less aggressive hikes as growth slows",
+      "title": "PHL stocks rise for third day on bargain hunting",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/24/796239/bsp-signals-less-aggressive-hikes-as-growth-slows/"
+      "url": "https://bworldonline.com/stock-market/2026/11/25/796658/phl-stocks-rise-for-third-day-on-bargain-hunting/"
     },
     {
-      "title": "MORES Congress 2026 charts future of market research",
+      "title": "HMOs attain double-digit profit growth",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622804/mores-congress-2026-charts-future-of-market-research"
+      "url": "https://business.inquirer.net/622836/hmos-attain-double-digit-profit-growth"
     },
     {
-      "title": "Infrastructure spending rises 14% in September",
+      "title": "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/24/796402/infrastructure-spending-rises-14-in-september/"
+      "url": "https://bworldonline.com/world/2026/11/25/796517/trump-administration-set-to-unveil-new-tariffs-after-probe-on-excess-factory-capacity-sources-say/"
     },
     {
-      "title": "US jury convicts China tech giant Huawei of stealing trade secrets",
+      "title": "DOF rolls out climate finance program",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622777/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets"
+      "url": "https://business.inquirer.net/622833/dof-rolls-out-climate-finance-program"
     },
     {
-      "title": "Higher installment rate may stall consumers’ credit card spending",
+      "title": "Bangladesh raises garment workers’ minimum wage 36% after protests",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/24/796401/higher-installment-rate-may-stall-consumers-credit-card-spending/"
+      "url": "https://bworldonline.com/world/2026/11/25/796683/bangladesh-raises-garment-workers-minimum-wage-36-after-protests/"
     }
   ],
   "regulation": [
