@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-24",
-  "updatedTime": "7:53 PM",
+  "updated": "2026-11-25",
+  "updatedTime": "1:15 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.73",
-      "note": "Market rate, Nov 24, 7:22 PM.",
+      "value": "₱63.72",
+      "note": "Market rate, Nov 25, 1:04 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,456.14",
-      "note": "Closed Nov 24, up 1.93%.",
+      "value": "5,435.16",
+      "note": "Closed Nov 25, down 0.38%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Gov’t fully awards T-bond offer",
+      "title": "BSP signals less aggressive hikes as growth slows",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/banking-finance/2026/11/24/796331/govt-fully-awards-t-bond-offer-4/"
+      "url": "https://bworldonline.com/top-stories/2026/11/24/796239/bsp-signals-less-aggressive-hikes-as-growth-slows/"
     },
     {
-      "title": "FIRB: Incentivized projects top targets by 40%",
+      "title": "MORES Congress 2026 charts future of market research",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622633/firb-incentivized-projects-top-targets-by-40"
+      "url": "https://business.inquirer.net/622804/mores-congress-2026-charts-future-of-market-research"
     },
     {
-      "title": "PNB stays cautious on loan expansion amid macroeconomic risks",
+      "title": "Infrastructure spending rises 14% in September",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/banking-finance/2026/11/24/796380/pnb-stays-cautious-on-loan-expansion-amid-macroeconomic-risks/"
+      "url": "https://bworldonline.com/top-stories/2026/11/24/796402/infrastructure-spending-rises-14-in-september/"
     },
     {
-      "title": "PSEi extends rebound on BSP rate signal",
+      "title": "US jury convicts China tech giant Huawei of stealing trade secrets",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622628/psei-extends-rebound-on-bsp-rate-signal"
+      "url": "https://business.inquirer.net/622777/us-jury-convicts-china-tech-giant-huawei-of-stealing-trade-secrets"
     },
     {
-      "title": "BSP launches PHL financial literacy strategy",
+      "title": "Higher installment rate may stall consumers’ credit card spending",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/banking-finance/2026/11/24/796334/bsp-launches-phl-financial-literacy-strategy/"
+      "url": "https://bworldonline.com/top-stories/2026/11/24/796401/higher-installment-rate-may-stall-consumers-credit-card-spending/"
     }
   ],
   "regulation": [
