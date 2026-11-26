@@ -1,11 +1,11 @@
 {
   "updated": "2026-11-26",
-  "updatedTime": "12:42 PM",
+  "updatedTime": "6:17 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.62",
-      "note": "Market rate, Nov 26, 12:40 PM.",
+      "value": "₱63.67",
+      "note": "Market rate, Nov 26, 6:16 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,472.00",
-      "note": "Closed Nov 26, down 0.39%.",
+      "value": "5,490.13",
+      "note": "Closed Nov 26, down 0.06%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Emerging Asia’s best bond rally seen extending in Philippines",
+      "title": "Trump’s new tariffs aim to pry global trade from China’s grip",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/11/26/796903/emerging-asias-best-bond-rally-seen-extending-in-philippines/"
+      "url": "https://bworldonline.com/world/2026/11/26/796979/trumps-new-tariffs-aim-to-pry-global-trade-from-chinas-grip/"
     },
     {
-      "title": "BSP tightens watch on banks’ agri loans amid El Niño losses",
+      "title": "Peppermint Bizmoto, FlashPay sign deal for interoperable QR",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622865/bsp-tightens-watch-on-banks-agri-loans-amid-el-nino-losses"
+      "url": "https://business.inquirer.net/622957/peppermint-bizmoto-flashpay-sign-deal-for-interoperable-qr"
     },
     {
-      "title": "BTr raises $1.26B from retail bond sale",
+      "title": "Philippine shares slip as market books profits",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/25/796769/btr-raises-1-26b-from-retail-bond-sale/"
+      "url": "https://bworldonline.com/stock-market/2026/11/26/797030/philippine-shares-slip-as-market-books-profits/"
     },
     {
-      "title": "Biz groups question coal mine auction rule",
+      "title": "Rising fuel costs, currency woes force AirAsia layoffs",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622857/biz-groups-question-coal-mine-auction-rule"
+      "url": "https://business.inquirer.net/622951/rising-fuel-costs-currency-woes-force-airasia-layoffs"
     },
     {
-      "title": "Foreign debt repayments climb as budget deficit widens",
+      "title": "India orders tougher surveillance of packaged water; scrutiny set to cover PepsiCo and Coca-Cola",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/25/796768/foreign-debt-repayments-climb-as-budget-deficit-widens/"
+      "url": "https://bworldonline.com/world/2026/11/26/797025/india-orders-tougher-surveillance-of-packaged-water-scrutiny-set-to-cover-pepsico-and-coca-cola/"
     }
   ],
   "regulation": [
