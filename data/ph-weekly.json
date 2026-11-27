@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-26",
-  "updatedTime": "6:17 PM",
+  "updated": "2026-11-27",
+  "updatedTime": "12:48 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
       "value": "₱63.67",
-      "note": "Market rate, Nov 26, 6:16 PM.",
+      "note": "Market rate, Nov 27, 12:48 PM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -25,37 +25,37 @@
     },
     {
       "label": "PSE index",
-      "value": "5,490.13",
-      "note": "Closed Nov 26, down 0.06%.",
+      "value": "5,505.26",
+      "note": "Closed Nov 27, up 0.28%.",
       "source": "Philippine Stock Exchange",
       "url": "https://www.pse.com.ph/"
     }
   ],
   "headlines": [
     {
-      "title": "Trump’s new tariffs aim to pry global trade from China’s grip",
+      "title": "Trade deficit widens to record $6.95B in October",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/world/2026/11/26/796979/trumps-new-tariffs-aim-to-pry-global-trade-from-chinas-grip/"
+      "url": "https://bworldonline.com/top-stories/2026/11/27/797250/trade-deficit-widens-to-record-6-95b-in-october/"
     },
     {
-      "title": "Peppermint Bizmoto, FlashPay sign deal for interoperable QR",
+      "title": "No flight disruptions despite job cuts: AirAsia PH",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622957/peppermint-bizmoto-flashpay-sign-deal-for-interoperable-qr"
+      "url": "https://business.inquirer.net/623098/no-flight-disruptions-despite-job-cutsairasia-ph"
     },
     {
-      "title": "Philippine shares slip as market books profits",
+      "title": "SAP weighs cutting at least 10,000 positions in AI restructuring",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/stock-market/2026/11/26/797030/philippine-shares-slip-as-market-books-profits/"
+      "url": "https://bworldonline.com/bloomberg/2026/11/27/797239/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
     },
     {
-      "title": "Rising fuel costs, currency woes force AirAsia layoffs",
+      "title": "Diesel, gasoline prices to drop by P3/liter next week",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/622951/rising-fuel-costs-currency-woes-force-airasia-layoffs"
+      "url": "https://business.inquirer.net/623091/diesel-gasoline-prices-to-drop-by-p3-liter-next-week"
     },
     {
-      "title": "India orders tougher surveillance of packaged water; scrutiny set to cover PepsiCo and Coca-Cola",
+      "title": "Balisacan: GDP growth could still hit 3% this year",
       "source": "BusinessWorld",
-      "url": "https://bworldonline.com/world/2026/11/26/797025/india-orders-tougher-surveillance-of-packaged-water-scrutiny-set-to-cover-pepsico-and-coca-cola/"
+      "url": "https://bworldonline.com/top-stories/2026/11/26/797126/balisacan-gdp-growth-could-still-hit-3-this-year/"
     }
   ],
   "regulation": [
