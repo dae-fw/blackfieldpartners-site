@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-27",
-  "updatedTime": "6:23 PM",
+  "updated": "2026-11-28",
+  "updatedTime": "12:33 PM",
   "indicators": [
     {
       "label": "Peso per US dollar",
-      "value": "₱63.65",
-      "note": "Market rate, Nov 27, 6:23 PM.",
+      "value": "₱63.69",
+      "note": "Market rate, Nov 28, 11:30 AM.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/quote/PHP=X/"
     },
@@ -33,29 +33,29 @@
   ],
   "headlines": [
     {
-      "title": "Philippine VP Duterte says resignation ‘out of the question’ amid impeachment trial",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/the-nation/2026/11/27/797277/philippine-vp-duterte-says-resignation-out-of-the-question-amid-impeachment-trial/"
-    },
-    {
-      "title": "ICTSI jumps 7.27%, powers PSEi above 5,600",
+      "title": "P3/liter price cuts seen for diesel, gasoline",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/623140/ictsi-jumps-7-27-powers-psei-above-5600"
+      "url": "https://business.inquirer.net/623341/p3-liter-price-cuts-seen-for-diesel-gasoline"
     },
     {
-      "title": "Trade deficit widens to record $6.95B in October",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/top-stories/2026/11/27/797250/trade-deficit-widens-to-record-6-95b-in-october/"
-    },
-    {
-      "title": "SSS pensioners to get 13th month pay on Dec. 1, 4",
+      "title": "Dole steps in to ease AirAsia retrenchment row",
       "source": "Inquirer Business",
-      "url": "https://business.inquirer.net/623161/sss-pensioners-to-get-13th-month-pay-on-dec-1-4"
+      "url": "https://business.inquirer.net/623338/dole-steps-in-to-ease-airasia-retrenchment-row"
     },
     {
-      "title": "SAP weighs cutting at least 10,000 positions in AI restructuring",
-      "source": "BusinessWorld",
-      "url": "https://bworldonline.com/bloomberg/2026/11/27/797239/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/"
+      "title": "PH exports hit record high in Oct, but trade gap still widened",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/623183/ph-exports-hit-record-high-in-oct-but-trade-gap-still-widened"
+    },
+    {
+      "title": "CAB lowers fuel surcharge; cheaper plane tickets ahead",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/623181/cab-lowers-fuel-surcharge-cheaper-plane-tickets-ahead"
+    },
+    {
+      "title": "Hotel101 enters India with $64.4-M project",
+      "source": "Inquirer Business",
+      "url": "https://business.inquirer.net/623184/hotel101-enters-india-with-64-4-m-project"
     }
   ],
   "regulation": [
@@ -85,12 +85,6 @@
     }
   ],
   "dates": [
-    {
-      "date": "Nov 27",
-      "title": "ERC public consultation on a Reserve Market secondary price cap",
-      "type": "Regulatory consultation",
-      "until": "2026-11-27"
-    },
     {
       "date": "Nov 30",
       "title": "Bonifacio Day",
